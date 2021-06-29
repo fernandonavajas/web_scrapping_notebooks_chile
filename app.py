@@ -16,8 +16,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-
-
+  find_processes()
   return render_template('index.html')
 
 def find_notebooks():
@@ -56,27 +55,23 @@ def find_notebooks():
 def find_processes():
   driver = webdriver.Chrome('/bin/chromedriver')
   driver.get('https://www.solotodo.cl/notebook_processors?id=1326895')
-  # Esperar 10 segundos
-  # driver.implicitly_wait(10)
   wait = WebDriverWait(driver, 10, poll_frequency=1, ignored_exceptions=[ElementNotVisibleException, ElementNotSelectableException, StaleElementReferenceException])
-
+  time.sleep(3)
   processes = []
   for _ in range(1, 11): # 10 páginas
-    time.sleep(2)
-    for i in range(1, 16):
-      # Obtener los procesos
-      process_element = driver.find_elements_by_xpath('//*[@id="main-container"]/div/div/div[4]/div/div/div[1]/div[3]/div['+str(i)+']/div/div[1]/a')
+    # Obtener los procesadores
+    processes_elements = driver.find_elements_by_xpath('//*[@id="main-container"]/div/div/div[4]/div/div/div[1]/div[3]/div')
+    for process_element in processes_elements:
       process = {
-        'name': process_element[0].text,
-        'score': driver.find_elements_by_xpath('//*[@id="main-container"]/div/div/div[4]/div/div/div[1]/div[3]/div['+str(i)+']/div/div[6]/span')[0].text,
-        'process_url': process_element[0].get_attribute('href')
+        'name': process_element.find_element_by_xpath('.//div/div[1]/a').text,
+        'score': process_element.find_element_by_xpath('.//div/div[6]/span').text,
+        'process_url': process_element.find_element_by_xpath('.//div/div[1]/a').get_attribute('href')
       }
       processes.append(process)
 
     # Cambiar la pagina
     button = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="main-container"]/div/div/div[4]/div/div/div[2]/div/div[3]/button')))
     button.click()
-
 
   # Cerrar el navegador falso
   driver.quit()
