@@ -14,46 +14,49 @@ import pandas as pd
 app = Flask(__name__)
 
 
+
+
 @app.route('/')
 def index():
-  find_processes()
+  driver = webdriver.Chrome('/bin/chromedriver')
+  find_notebooks(driver)
   return render_template('index.html')
 
-def find_notebooks():
+def find_notebooks(driver):
   df = pd.read_csv('processes.csv')
+  n_processes = len(df.index)
+  n = 0
   notebooks = []
   for _, row in df.iterrows():
-    driver = webdriver.Chrome('/bin/chromedriver')
     driver.get(row['process_url'])
     time.sleep(1)
-    notes = driver.find_elements_by_xpath('//*[@id="category-browse-results-card"]/div/div[2]/div/div[@class = "d-flex flex-column category-browse-result"]')
-    for idx, _ in enumerate(notes, start=1):
+    notes_elements = driver.find_elements_by_xpath('//*[@id="category-browse-results-card"]/div/div[2]/div/div[@class = "d-flex flex-column category-browse-result"]')
+    for note_element in notes_elements:
       notebook = {
-        'name': driver.find_elements_by_xpath('//*[@id="category-browse-results-card"]/div/div[2]/div/div['+str(idx)+']/h3/a')[0].text,
+        'name': note_element.find_element_by_xpath('.//h3/a').text,
         'process': row['name'],
         'score': row['score'],
-        'price': driver.find_elements_by_xpath('//*[@id="category-browse-results-card"]/div/div[2]/div/div['+str(idx)+']/div[3]/div/a')[0].text,
-        'ram': driver.find_elements_by_xpath('//*[@id="category-browse-results-card"]/div/div[2]/div/div['+str(idx)+']/div[2]/dl/dd[2]')[0].text,
-        'screen': driver.find_elements_by_xpath('//*[@id="category-browse-results-card"]/div/div[2]/div/div['+str(idx)+']/div[2]/dl/dd[3]')[0].text,
-        'storage': driver.find_elements_by_xpath('//*[@id="category-browse-results-card"]/div/div[2]/div/div['+str(idx)+']/div[2]/dl/dd[4]/ul/li')[0].text,
-        'link': driver.find_elements_by_xpath('//*[@id="category-browse-results-card"]/div/div[2]/div/div['+str(idx)+']/h3/a')[0].get_attribute('href'),
+        'price': note_element.find_element_by_xpath('.//div[3]/div/a').text,
+        'ram': note_element.find_element_by_xpath('.//div[2]/dl/dd[2]').text,
+        'screen': note_element.find_element_by_xpath('.//div[2]/dl/dd[3]').text,
+        't video': note_element.find_element_by_xpath('.//div[2]/dl/dd[5]/ul').text,
+        'storage': note_element.find_element_by_xpath('.//div[2]/dl/dd[4]/ul').text,
+        'link': note_element.find_element_by_xpath('.//h3/a').get_attribute('href'),
 
       }
-      print(notebook)
+      n = n+1
+      print(f'{ n*100.0/n_processes } % ')
       notebooks.append(notebook)
 
-    # Cerrar el navegador falso
-    driver.quit()
-
-    print(len(notebooks))
+  # Cerrar el navegador falso
+  driver.quit()
 
   # Guardar la lista de notebooks
   df_notebooks = pd.DataFrame(notebooks)
   df_notebooks.to_csv('notebooks.csv')
 
 
-def find_processes():
-  driver = webdriver.Chrome('/bin/chromedriver')
+def find_processes(driver):
   driver.get('https://www.solotodo.cl/notebook_processors?id=1326895')
   wait = WebDriverWait(driver, 10, poll_frequency=1, ignored_exceptions=[ElementNotVisibleException, ElementNotSelectableException, StaleElementReferenceException])
   time.sleep(3)
