@@ -22,5 +22,5 @@ export FLASK_APP=manage
 flask run
 
 # 5. Listo
-Abre tu navegador: http://127.0.0.1:5000/ping
+Abre tu navegador: http://127.0.0.1:5000/
 
