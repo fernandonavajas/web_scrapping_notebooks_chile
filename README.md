@@ -16,11 +16,5 @@ pip freeze > requirements.txt
  
 pip install -r requirements.txt  
 
-# 4. Levantar servidor
-export FLASK_ENV=development
-export FLASK_APP=manage
-flask run
-
-# 5. Listo
-Abre tu navegador: http://127.0.0.1:5000/
-
+# 4. run App
+python main.py
