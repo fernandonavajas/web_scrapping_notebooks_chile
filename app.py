@@ -5,6 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import *
 import time
 
@@ -18,7 +19,9 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-  driver = webdriver.Chrome('/bin/chromedriver')
+  chrome_options = Options()
+  chrome_options.add_argument("--headless")
+  driver = webdriver.Chrome(executable_path='/bin/chromedriver', options=chrome_options)
   find_notebooks(driver)
   return render_template('index.html')
 
