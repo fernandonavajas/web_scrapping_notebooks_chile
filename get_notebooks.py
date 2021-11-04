@@ -15,7 +15,7 @@ def find_notebooks(driver):
         'notebook': notebook_element.find_element_by_xpath('.//h3/a').text,
         'name': row['name'],
         'score': int(row['score']),
-        'price': notebook_element.find_element_by_xpath('.//div[3]/div/a').text,
+        'price': int(notebook_element.find_element_by_xpath('.//div[3]/div/a').text.replace("$","").replace(" ","").replace(".","")),
         'ram': notebook_element.find_element_by_xpath('.//div[2]/dl/dd[2]').text,
         'screen': notebook_element.find_element_by_xpath('.//div[2]/dl/dd[3]').text,
         'graphic card': notebook_element.find_element_by_xpath('.//div[2]/dl/dd[5]/ul').text,
