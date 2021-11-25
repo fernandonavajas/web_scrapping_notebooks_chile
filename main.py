@@ -1,12 +1,17 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
 
-from get_notebooks import find_notebooks
-from order_date_prices import order_date_prices
+from notebooks.find_notebooks import find_notebooks
+from applewatchs.find_applewatchs import find_applewatchs
+from refrigerators.find_refrigerators import find_refrigerators
 
 # Cargar las opcines del web driver
 chrome_options = Options()
 chrome_options.add_argument("--headless")
-driver = webdriver.Chrome(executable_path='/bin/chromedriver', options=chrome_options)
+s = Service('/bin/chromedriver')
+driver = webdriver.Chrome(service= s, options=chrome_options)
 
-find_notebooks(driver)
+# find_notebooks(driver)
+# find_applewatchs(driver)
+find_refrigerators(driver)
