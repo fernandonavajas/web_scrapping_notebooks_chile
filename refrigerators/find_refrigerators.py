@@ -7,10 +7,12 @@ from order_date_prices import order_date_prices
 
 def find_refrigerators(driver):
   refrigerators = []
-  for index in range(1, 4): # 3 páginas
+  for index in range(1, 99):
     # Obtener los refrigeradores
     driver.get('https://www.solotodo.cl/refrigerators?width_end=700&height_start=1686&refrigerator_capacity_start=250&freezer_capacity_start=79&ordering=offer_price_usd&page='+str(index)+'&')
     refrigerators_elements = driver.find_elements_by_xpath('//*[@id="category-browse-results-card"]/div/div[2]/div/div[@class = "d-flex flex-column category-browse-result"]')
+    if not refrigerators_elements:
+      break
     for refrigerator_element in refrigerators_elements:
       refrigerator = {
         'id': int(refrigerator_element.find_element(By.XPATH,'.//h3/a').get_attribute('href').split("-")[0].split("/")[-1]),
@@ -26,7 +28,7 @@ def find_refrigerators(driver):
       }
       refrigerators.append(refrigerator)
     # Cambiar la pagina
-    print("cambio la pagina")
+    print("cambio la pagina " + index)
 
   # Guardar la lista de refrigeradores
   order_date_prices(refrigerators, path='refrigerators/refrigerators.csv', order='price')

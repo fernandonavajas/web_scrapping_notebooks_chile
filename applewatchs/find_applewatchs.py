@@ -3,10 +3,12 @@ from order_date_prices import order_date_prices
 
 def find_applewatchs(driver):
   applewatchs = []
-  for index in range(1, 7): # 6 páginas
+  for index in range(1, 99):
     # Obtener los refrigeradores
     driver.get('https://www.solotodo.cl/wearables?types=864844&brands=872174&ordering=offer_price_usd&page='+str(index)+'&')
     applewatchs_elements = driver.find_elements_by_xpath('//*[@id="category-browse-results-card"]/div/div[2]/div/div[@class = "d-flex flex-column category-browse-result"]')
+    if not applewatchs_elements:
+      break
     for applewatch_element in applewatchs_elements:
       applewatch = {
         'id': int(applewatch_element.find_element(By.XPATH,'.//h3/a').get_attribute('href').split("-")[0].split("/")[-1]),
@@ -22,7 +24,7 @@ def find_applewatchs(driver):
       }
       applewatchs.append(applewatch)
     # Cambiar la pagina
-    print("cambio la pagina")
+    print("cambio la pagina " + index)
 
   # Guardar la lista de refrigeradores
   order_date_prices(applewatchs, path='applewatchs/applewatchs.csv', order='price')
