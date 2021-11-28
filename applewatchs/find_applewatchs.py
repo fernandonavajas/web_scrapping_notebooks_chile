@@ -2,6 +2,7 @@ from selenium.webdriver.common.by import By
 from order_date_prices import order_date_prices
 
 def find_applewatchs(driver):
+  print("Searching Applewatchs")
   applewatchs = []
   for index in range(1, 99):
     # Obtener los refrigeradores
@@ -24,7 +25,7 @@ def find_applewatchs(driver):
       }
       applewatchs.append(applewatch)
     # Cambiar la pagina
-    print("cambio la pagina " + index)
+    print("cambio la pagina " + str(index))
 
   # Guardar la lista de refrigeradores
   order_date_prices(applewatchs, path='applewatchs/applewatchs.csv', order='price')

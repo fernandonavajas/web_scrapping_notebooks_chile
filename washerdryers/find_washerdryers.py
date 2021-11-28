@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 from order_date_prices import order_date_prices
 
 def find_washerdryers(driver):
+  print("Searching Washerdryers")
   washerdryers = []
   for index in range(1, 99):
     # Obtener los washerdryeres
@@ -24,7 +25,7 @@ def find_washerdryers(driver):
       }
       washerdryers.append(washerdryer)
     # Cambiar la pagina
-    print("cambio la pagina " + index)
+    print("cambio la pagina " + str(index))
 
   # Guardar la lista de washerdryeres
   order_date_prices(washerdryers, path='washerdryers/washerdryers.csv', order='price')

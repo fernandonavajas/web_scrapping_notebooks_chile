@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 from order_date_prices import order_date_prices
 
 def find_televisions(driver):
+  print("Searching Televisions")
   televisions = []
   for index in range(1, 99):
     # Obtener los televisiones
@@ -23,7 +24,7 @@ def find_televisions(driver):
       }
       televisions.append(television)
     # Cambiar la pagina
-    print("cambio la pagina " + index)
+    print("cambio la pagina " + str(index))
 
   # Guardar la lista de televisiones
   order_date_prices(televisions, path='televisions/televisions.csv', order='price')
