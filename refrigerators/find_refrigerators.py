@@ -28,9 +28,6 @@ def find_refrigerators(driver):
     # Cambiar la pagina
     print("cambio la pagina")
 
-  # Cerrar el navegador
-  driver.quit()
-
   # Guardar la lista de refrigeradores
   order_date_prices(refrigerators, path='refrigerators/refrigerators.csv', order='price')
 

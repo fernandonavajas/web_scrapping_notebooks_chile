@@ -24,8 +24,5 @@ def find_applewatchs(driver):
     # Cambiar la pagina
     print("cambio la pagina")
 
-  # Cerrar el navegador
-  driver.quit()
-
   # Guardar la lista de refrigeradores
   order_date_prices(applewatchs, path='applewatchs/applewatchs.csv', order='price')

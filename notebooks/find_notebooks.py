@@ -28,8 +28,5 @@ def find_notebooks(driver):
     n = n+1
     print(f'{ round(n*100.0/n_processes, 2)  } % ')
 
-  # Cerrar el navegador falso
-  driver.quit()
-
   # Guardar la lista de notebooks
   order_date_prices(notebooks, path='notebooks/notebooks.csv', order='price')
