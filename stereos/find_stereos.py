@@ -29,5 +29,5 @@ def find_stereos(driver):
     print("cambio la pagina " + str(index))
 
   # Guardar la lista de equipos de audio
-  order_date_prices(stereos, path='stereos/stereos.csv', order='price')
+  order_date_prices(stereos, path='items/stereos.csv', order='price')
 

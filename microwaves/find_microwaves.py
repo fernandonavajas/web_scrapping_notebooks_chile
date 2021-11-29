@@ -26,5 +26,5 @@ def find_microwaves(driver):
     print("cambio la pagina " + str(index))
 
   # Guardar la lista de microwavees
-  order_date_prices(microwaves, path='microwaves/microwaves.csv', order='price')
+  order_date_prices(microwaves, path='items/microwaves.csv', order='price')
 

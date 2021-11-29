@@ -28,4 +28,4 @@ def find_applewatchs(driver):
     print("cambio la pagina " + str(index))
 
   # Guardar la lista de refrigeradores
-  order_date_prices(applewatchs, path='applewatchs/applewatchs.csv', order='price')
+  order_date_prices(applewatchs, path='items/applewatchs.csv', order='price')

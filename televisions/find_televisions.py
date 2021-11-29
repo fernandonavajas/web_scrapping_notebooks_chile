@@ -27,5 +27,5 @@ def find_televisions(driver):
     print("cambio la pagina " + str(index))
 
   # Guardar la lista de televisiones
-  order_date_prices(televisions, path='televisions/televisions.csv', order='price')
+  order_date_prices(televisions, path='items/televisions.csv', order='price')
 

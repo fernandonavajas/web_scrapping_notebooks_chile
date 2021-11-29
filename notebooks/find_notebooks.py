@@ -30,4 +30,4 @@ def find_notebooks(driver):
     print(f'{ round(n*100.0/n_processes, 2)  } % ')
 
   # Guardar la lista de notebooks
-  order_date_prices(notebooks, path='notebooks/notebooks.csv', order='price')
+  order_date_prices(notebooks, path='items/notebooks.csv', order='price')

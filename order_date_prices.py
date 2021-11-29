@@ -8,10 +8,10 @@ today = time.strftime("%d/%m/%y", time.localtime())
 def order_date_prices(objets, path='', order=''):
   df = pd.read_csv(path)
   verify_integrity(df, objets)
-  add_prices(df, objets)
-  order_list_by(df, label=order)
   mean_price_x_days_ago(df, target="price" ,days=4)
   calculate_diff_price(df, target="diff price")
+  order_list_by(df, label=order)
+  add_prices(df, objets)
   converts_to_int(df)
   df.to_csv(path, index=False)
 

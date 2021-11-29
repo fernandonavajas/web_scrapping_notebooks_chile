@@ -32,5 +32,5 @@ def find_refrigerators(driver):
     print("cambio la pagina " + str(index))
 
   # Guardar la lista de refrigeradores
-  order_date_prices(refrigerators, path='refrigerators/refrigerators.csv', order='price')
+  order_date_prices(refrigerators, path='items/refrigerators.csv', order='price')
 

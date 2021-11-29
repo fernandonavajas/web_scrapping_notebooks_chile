@@ -28,5 +28,5 @@ def find_washerdryers(driver):
     print("cambio la pagina " + str(index))
 
   # Guardar la lista de washerdryeres
-  order_date_prices(washerdryers, path='washerdryers/washerdryers.csv', order='price')
+  order_date_prices(washerdryers, path='items/washerdryers.csv', order='price')
 
