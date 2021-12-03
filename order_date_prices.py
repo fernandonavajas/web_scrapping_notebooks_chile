@@ -5,15 +5,14 @@ import pdb
 
 today = time.strftime("%d/%m/%y", time.localtime())
 
-def order_date_prices(objets, path='', order=''):
+def order_date_prices(objets, path='', order='diff percent', order_ascending=False):
   df = pd.read_csv(path)
   verify_integrity(df, objets)
   mean_price_x_days_ago(df, target="price" ,days=4)
-  calculate_diff_price(df, target="diff price")
-  order_list_by(df, label=order)
   add_prices(df, objets)
-  converts_to_int(df)
-  df.to_csv(path, index=False)
+  calculate_diff_price(df, target="diff price")
+  order_list_by(df, label=order, order_ascending=order_ascending)
+  df.to_csv(path, index=False, float_format='{:.0f}'.format)
 
 # Verifica que esten presentes todos los objetos
 # si un objeto no esta presente, lo agrega
@@ -31,8 +30,8 @@ def add_prices(df, objets):
         df.loc[row.index, today] = int(objet['price'])
 
 # Ordena la lista dado el nombre de la columna, de forma descendente
-def order_list_by(df, label="price"):
-  df.sort_values(by=label, ascending=False, kind='quicksort', inplace=True)
+def order_list_by(df, label, order_ascending=False):
+  df.sort_values(by=label, ascending=order_ascending, kind='quicksort', inplace=True)
 
 # Calcula el precio promedio de los últimos X días
 def mean_price_x_days_ago(df, target="price", days=4):
@@ -42,12 +41,7 @@ def mean_price_x_days_ago(df, target="price", days=4):
       header_prices.append(header)
   df[target] = df[header_prices].mean(axis=1, numeric_only=True)
 
-# Calcula la diferencia del precio con respecto al promedio
+# Calcula la diferencia del precio con respecto al promedio y lo muestra ademas como porcentaje de descuento
 def calculate_diff_price(df, target="diff price"):
   df[target] = df["price"] - df[today]
-
-def converts_to_int(df):
-# Transformar todas las columnas float a int64
-  float_col = df.select_dtypes(include=['float64'])
-  for col in float_col.columns.values:
-    df[col] = df[col].astype('int64', errors = 'ignore')
+  df['diff percent'] = (1-(df[today]/df["price"]))*100

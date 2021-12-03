@@ -17,7 +17,7 @@ chrome_options.add_argument("--headless")
 s = Service('/bin/chromedriver')
 driver = webdriver.Chrome(service= s, options=chrome_options)
 
-# find_notebooks(driver)
+find_notebooks(driver)
 find_applewatchs(driver)
 find_refrigerators(driver)
 find_televisions(driver)
