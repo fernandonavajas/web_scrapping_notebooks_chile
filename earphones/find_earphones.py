@@ -25,7 +25,7 @@ def find_earphones(driver):
       }
       earphones.append(earphone)
     # Cambiar la pagina
-    print("cambio la pagina " + str(index))
+    # print("cambio la pagina " + str(index))
   print("")
   # Guardar la lista de audifonos
   order_date_prices(earphones, path='items/earphones.csv')

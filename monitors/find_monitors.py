@@ -26,7 +26,7 @@ def find_monitors(driver):
       }
       monitors.append(monitor)
     # Cambiar la pagina
-    print("cambio la pagina " + str(index))
+    # print("cambio la pagina " + str(index))
   print("")
   # Guardar la lista de monitores
   order_date_prices(monitors, path='items/monitors.csv')

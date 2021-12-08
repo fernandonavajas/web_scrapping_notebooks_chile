@@ -12,6 +12,7 @@ def order_date_prices(objets, path='', order='diff percent', order_ascending=Fal
   add_prices(df, objets)
   calculate_diff_price(df)
   order_list_by(df, label=order, order_ascending=order_ascending)
+  is_offer(df, path)
   df.to_csv(path, index=False, float_format='{:.0f}'.format)
 
 # Verifica que esten presentes todos los objetos
@@ -46,3 +47,16 @@ def calculate_diff_price(df):
   df["diff price"] =  df[today] - df["price"]
   df["today"] = df[today]
   df['diff percent'] = (1-(df[today]/df["price"]))*100
+
+# Lista las ofertas del día por consola
+def is_offer(df, path):
+  for _, row in df.iterrows():
+    if (row['diff percent'] > 10):
+      category = path[6:-4]
+      name = row["name"]
+      percentage = round(row["diff percent"], 2)
+      today: format(int(row["today"]), ',d')
+      avg = format(int(row["price"]), ',d') 
+      # notebooks: Lenovo h3 23%↓ today: 990.000 avg: 1.299.000
+      print(f'{category}: {name} {percentage}%↓ today: {today} avg: {avg}')
+  
