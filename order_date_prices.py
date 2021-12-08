@@ -10,7 +10,7 @@ def order_date_prices(objets, path='', order='diff percent', order_ascending=Fal
   verify_integrity(df, objets)
   mean_price_x_days_ago(df, target="price" ,days=4)
   add_prices(df, objets)
-  calculate_diff_price(df, target="diff price")
+  calculate_diff_price(df)
   order_list_by(df, label=order, order_ascending=order_ascending)
   df.to_csv(path, index=False, float_format='{:.0f}'.format)
 
@@ -41,7 +41,8 @@ def mean_price_x_days_ago(df, target="price", days=4):
       header_prices.append(header)
   df[target] = df[header_prices].mean(axis=1, numeric_only=True)
 
-# Calcula la diferencia del precio con respecto al promedio y lo muestra ademas como porcentaje de descuento
-def calculate_diff_price(df, target="diff price"):
-  df[target] = df["price"] - df[today]
+# Calcula la diferencia del precio con respecto al promedio y lo muestra como porcentaje de descuento
+def calculate_diff_price(df):
+  df["diff price"] =  df[today] - df["price"]
+  df["today"] = df[today]
   df['diff percent'] = (1-(df[today]/df["price"]))*100
