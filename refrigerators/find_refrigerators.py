@@ -6,7 +6,7 @@ from selenium.common.exceptions import ElementNotVisibleException, ElementNotSel
 from order_date_prices import order_date_prices
 
 def find_refrigerators(driver):
-  print("Searching Refrigerators")
+  print("Searching Refrigerators", end="  pages  => ")
   refrigerators = []
   for index in range(1, 99):
     # Obtener los refrigeradores
@@ -29,7 +29,7 @@ def find_refrigerators(driver):
       }
       refrigerators.append(refrigerator)
     # Cambiar la pagina
-    # print("cambio la pagina " + str(index))
+    print(f'{str(index)}', end=", ")
   print("")
   # Guardar la lista de refrigeradores
   order_date_prices(refrigerators, path='items/refrigerators.csv')

@@ -10,7 +10,10 @@ from applewatchs.find_applewatchs import find_applewatchs
 from rams.find_rams import find_rams
 from refrigerators.find_refrigerators import find_refrigerators
 from ssds.find_ssds import find_ssds
+from consoles.find_consoles import find_consoles
 from stereos.find_stereos import find_stereos
+from tablets.find_tablets import find_tablets
+from smartphones.find_smartphones import find_smartphones
 from televisions.find_televisions import find_televisions
 from washerdryers.find_washerdryers import find_washerdryers
 from monitors.find_monitors import find_monitors
@@ -33,6 +36,9 @@ find_ssds(driver)
 find_stereos(driver)
 find_televisions(driver)
 find_washerdryers(driver)
+find_tablets(driver)
+find_smartphones(driver)
+find_consoles(driver)
 
 # Cerrar el navegador falso
 driver.quit()

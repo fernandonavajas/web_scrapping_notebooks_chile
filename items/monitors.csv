@@ -1,117 +1,118 @@
-id,name,price,today,diff price,diff percent,url,size,resolution,ms,hz,g-sync,freesync,08/12/21
-116301,Lenovo ThinkVision S27e-20 (62AFKAR2CL),149990,149990,0,0,https://www.solotodo.cl/products/116301-lenovo-thinkvision-s27e-20-62afkar2cl,"27.0""",Full HD (1920x1080),4 ms,60 Hz,No,Sí,149990
-115280,Redragon Emerald GM270F165,199990,199990,0,0,https://www.solotodo.cl/products/115280-redragon-emerald-gm270f165,"27.0""",Full HD (1920x1080),1 ms,165 Hz,No,Sí,199990
-103163,Samsung F27T35 (LF27T350FHLXZS),169990,169990,0,0,https://www.solotodo.cl/products/103163-samsung-f27t35-lf27t350fhlxzs,"27.0""",Full HD (1920x1080),5 ms,75 Hz,No,Sí,169990
-72233,BenQ GW2780 (9H.LGELB.QBL),169990,169990,0,0,https://www.solotodo.cl/products/72233-benq-gw2780-9hlgelbqbl,"27.0""",Full HD (1920x1080),5 ms,60 Hz,No,No,169990
-84561,Viewsonic VA2718-SH,170006,170006,0,0,https://www.solotodo.cl/products/84561-viewsonic-va2718-sh,"27.0""",Full HD (1920x1080),5 ms,75 Hz,No,No,170006
-76550,ASUS VA27EHE,175500,175500,0,0,https://www.solotodo.cl/products/76550-asus-va27ehe,"27.0""",Full HD (1920x1080),5 ms,75 Hz,No,Sí,175500
-124711,Lenovo L27E-30 (66BEKAC2),177305,177305,0,0,https://www.solotodo.cl/products/124711-lenovo-l27e-30-66bekac2,"27.0""",Full HD (1920x1080),4 ms,75 Hz,No,Sí,177305
-101663,Lenovo ThinkVision T27i-10 (61C6MAR1CL),179990,179990,0,0,https://www.solotodo.cl/products/101663-lenovo-thinkvision-t27i-10-61c6mar1cl,"27.0""",Full HD (1920x1080),6 ms,60 Hz,No,No,179990
-96754,Acer R271 Bbix (UM.HR1AA.B01),179990,179990,0,0,https://www.solotodo.cl/products/96754-acer-r271-bbix-umhr1aab01,"27.0""",Full HD (1920x1080),5 ms,75 Hz,No,Sí,179990
-71822,Viewsonic VA2759-SMH,183872,183872,0,0,https://www.solotodo.cl/products/71822-viewsonic-va2759-smh,"27.0""",Full HD (1920x1080),7 ms,60 Hz,No,No,183872
-29698,Viewsonic VX2776-SMHD,189990,189990,0,0,https://www.solotodo.cl/products/29698-viewsonic-vx2776-smhd,"27.0""",Full HD (1920x1080),4 ms,60 Hz,No,No,189990
-81614,LG 27MK430H-B,189990,189990,0,0,https://www.solotodo.cl/products/81614-lg-27mk430h-b,"27.0""",Full HD (1920x1080),5 ms,75 Hz,No,Sí,189990
-34785,Viewsonic VA2719-SMH,189990,189990,0,0,https://www.solotodo.cl/products/34785-viewsonic-va2719-smh,"27.0""",Full HD (1920x1080),5 ms,60 Hz,No,No,189990
-98117,HP V27i (9SV92AA),189990,189990,0,0,https://www.solotodo.cl/products/98117-hp-v27i-9sv92aa,"27.0""",Full HD (1920x1080),5 ms,60 Hz,No,No,189990
-86946,Viewsonic XG2705,209790,209790,0,0,https://www.solotodo.cl/products/86946-viewsonic-xg2705,"27.0""",Full HD (1920x1080),1 ms,144 Hz,No,Sí,209790
-101661,Lenovo ThinkVision P32p-20 (62A2GAR2CL),399990,399990,0,0,https://www.solotodo.cl/products/101661-lenovo-thinkvision-p32p-20-62a2gar2cl,"31,5""",Ultra HD (3840x2160),6 ms,60 Hz,No,No,399990
-120157,HP M27fw (2H1A4AA),209990,209990,0,0,https://www.solotodo.cl/products/120157-hp-m27fw-2h1a4aa,"27.0""",Full HD (1920x1080),5 ms,75 Hz,No,Sí,209990
-92704,MSI Optix MAG274R,209990,209990,0,0,https://www.solotodo.cl/products/92704-msi-optix-mag274r,"27.0""",Full HD (1920x1080),1 ms,144 Hz,G-Sync Compatible,Sí,209990
-79395,MSI Optix G271,214990,214990,0,0,https://www.solotodo.cl/products/79395-msi-optix-g271,"27.0""",Full HD (1920x1080),4 ms,144 Hz,No,Sí,214990
-86061,Lenovo L27i-28 (65E0KAC1CL),219990,219990,0,0,https://www.solotodo.cl/products/86061-lenovo-l27i-28-65e0kac1cl,"27.0""",Full HD (1920x1080),4 ms,75 Hz,No,Sí,219990
-108337,Lenovo ThinkVision S28u-10 (61E6GAR2CL),219990,219990,0,0,https://www.solotodo.cl/products/108337-lenovo-thinkvision-s28u-10-61e6gar2cl,"28.0""",Ultra HD (3840x2160),6 ms,60 Hz,No,No,219990
-81959,LG 32MN500M-B,222819,222819,0,0,https://www.solotodo.cl/products/81959-lg-32mn500m-b,"32.0""",Full HD (1920x1080),5 ms,60 Hz,No,Sí,222819
-104811,Lenovo G27q-20 (66C3GAC1CL),229990,229990,0,0,https://www.solotodo.cl/products/104811-lenovo-g27q-20-66c3gac1cl,"27.0""",Quad HD (2560x1440),5 ms,165 Hz,G-Sync Compatible,Sí,229990
-74600,HP 27fw (3KS64AA),229990,229990,0,0,https://www.solotodo.cl/products/74600-hp-27fw-3ks64aa,"27.0""",Full HD (1920x1080),5 ms,75 Hz,No,No,229990
-64834,LG 27GL650F-B,230500,230500,0,0,https://www.solotodo.cl/products/64834-lg-27gl650f-b,"27.0""",Full HD (1920x1080),5 ms,144 Hz,G-Sync Compatible,Sí,230500
-74720,Dell P2719H (210-AQCS),237490,237490,0,0,https://www.solotodo.cl/products/74720-dell-p2719h-210-aqcs,"27.0""",Full HD (1920x1080),8 ms,60 Hz,No,No,237490
-101777,Fantech Chimera GM271SF,239990,239990,0,0,https://www.solotodo.cl/products/101777-fantech-chimera-gm271sf,"27.0""",Full HD (1920x1080),4 ms,165 Hz,No,Sí,239990
-111380,Dell P2722H (210-BBCK),256490,256490,0,0,https://www.solotodo.cl/products/111380-dell-p2722h-210-bbck,"27.0""",Full HD (1920x1080),5 ms,60 Hz,No,No,256490
-84384,LG 27QN600-B,249500,249500,0,0,https://www.solotodo.cl/products/84384-lg-27qn600-b,"27.0""",Quad HD (2560x1440),5 ms,75 Hz,No,Sí,249500
-93455,Gigabyte M27F / M27F-SA,259000,259000,0,0,https://www.solotodo.cl/products/93455-gigabyte-m27f-m27f-sa,"27.0""",Full HD (1920x1080),Desconocido,144 Hz,No,Sí,259000
-91165,Gigabyte M27Q / M27Q-SA,345990,345990,0,0,https://www.solotodo.cl/products/91165-gigabyte-m27q-m27q-sa,"27.0""",Quad HD (2560x1440),Desconocido,170 Hz,No,Sí,345990
-122316,Lenovo C32q-20 (665F8GCC1US),259990,259990,0,0,https://www.solotodo.cl/products/122316-lenovo-c32q-20-665f8gcc1us,"31,5""",Quad HD (2560x1440),4 ms,75 Hz,No,Sí,259990
-85125,Gigabyte G27F / G27F-SA,259990,259990,0,0,https://www.solotodo.cl/products/85125-gigabyte-g27f-g27f-sa,"27.0""",Full HD (1920x1080),Desconocido,144 Hz,No,Sí,259990
-57831,Viewsonic VX3276-MHD,278000,278000,0,0,https://www.solotodo.cl/products/57831-viewsonic-vx3276-mhd,"31,5""",Full HD (1920x1080),4 ms,60 Hz,No,No,278000
-120217,ASUS VG279Q1A,279990,279990,0,0,https://www.solotodo.cl/products/120217-asus-vg279q1a,"27.0""",Full HD (1920x1080),4 ms,165 Hz,No,Sí,279990
-123254,"Epsylon White (27"" / Full HD / 144 Hz)",279990,279990,0,0,https://www.solotodo.cl/products/123254-epsylon-white-27-full-hd-144-hz,"27.0""",Full HD (1920x1080),1 ms,144 Hz,No,No,279990
-120163,Dell E2722HS (210-BBWU),288585,288585,0,0,https://www.solotodo.cl/products/120163-dell-e2722hs-210-bbwu,"27.0""",Full HD (1920x1080),8 ms,60 Hz,No,No,288585
-62313,ASUS VG279Q,289900,289900,0,0,https://www.solotodo.cl/products/62313-asus-vg279q,"27.0""",Full HD (1920x1080),1 ms,144 Hz,No,Sí,289900
-89006,Acer HA270 Abi (UM.HW0AA.A01),290990,290990,0,0,https://www.solotodo.cl/products/89006-acer-ha270-abi-umhw0aaa01,"27.0""",Full HD (1920x1080),4 ms,75 Hz,No,Sí,290990
-109599,MSI Optix MAG274,299900,299900,0,0,https://www.solotodo.cl/products/109599-msi-optix-mag274,"27.0""",Full HD (1920x1080),1 ms,144 Hz,No,Sí,299900
-116446,Ozone DSP28 IPS,299990,299990,0,0,https://www.solotodo.cl/products/116446-ozone-dsp28-ips,"28.0""",Ultra HD (3840x2160),4 ms,60 Hz,G-Sync Compatible,Sí,299990
-119198,MSI Optix MAG274R2,299990,299990,0,0,https://www.solotodo.cl/products/119198-msi-optix-mag274r2,"27.0""",Full HD (1920x1080),Desconocido,165 Hz,G-Sync Compatible,No,299990
-82807,LG 29WN600-W,299990,299990,0,0,https://www.solotodo.cl/products/82807-lg-29wn600-w,"29.0""",2560x1080,5 ms,75 Hz,No,Sí,299990
-43047,Viewsonic VA2719-2K-SMHD,299990,299990,0,0,https://www.solotodo.cl/products/43047-viewsonic-va2719-2k-smhd,"27.0""",Quad HD (2560x1440),5 ms,60 Hz,No,No,299990
-108773,Viewsonic VG2748,299990,299990,0,0,https://www.solotodo.cl/products/108773-viewsonic-vg2748,"27.0""",Full HD (1920x1080),5 ms,75 Hz,No,No,299990
-85451,Dell S2721HN (210-AXJY),300761,300761,0,0,https://www.solotodo.cl/products/85451-dell-s2721hn-210-axjy,"27.0""",Full HD (1920x1080),4 ms,75 Hz,No,Sí,300761
-83042,LG 32QN600-B,310800,310800,0,0,https://www.solotodo.cl/products/83042-lg-32qn600-b,"32.0""",Quad HD (2560x1440),5 ms,75 Hz,No,Sí,310800
-85456,Dell S2721H (210-AXJW),312832,312832,0,0,https://www.solotodo.cl/products/85456-dell-s2721h-210-axjw,"27.0""",Full HD (1920x1080),4 ms,75 Hz,No,Sí,312832
-90868,Ozone DSP27 IPS,319990,319990,0,0,https://www.solotodo.cl/products/90868-ozone-dsp27-ips,"27.0""",Quad HD (2560x1440),1 ms,144 Hz,G-Sync Compatible,Sí,319990
-61973,LG 27UL500-W,322873,322873,0,0,https://www.solotodo.cl/products/61973-lg-27ul500-w,"27.0""",Ultra HD (3840x2160),5 ms,60 Hz,No,Sí,322873
-71920,HP V270 (2KZ35AA),322990,322990,0,0,https://www.solotodo.cl/products/71920-hp-v270-2kz35aa,"27.0""",Full HD (1920x1080),5 ms,60 Hz,No,No,322990
-100392,Viewsonic VX2758-2KP-MHD,326491,326491,0,0,https://www.solotodo.cl/products/100392-viewsonic-vx2758-2kp-mhd,"27.0""",Quad HD (2560x1440),1 ms,144 Hz,No,Sí,326491
-92601,Viewsonic VX3276-2K-MHD,329990,329990,0,0,https://www.solotodo.cl/products/92601-viewsonic-vx3276-2k-mhd,"31,5""",Quad HD (2560x1440),4 ms,60 Hz,No,No,329990
-43046,Viewsonic VX3211-2K-MHD,329990,329990,0,0,https://www.solotodo.cl/products/43046-viewsonic-vx3211-2k-mhd,"32.0""",Quad HD (2560x1440),3 ms,75 Hz,No,No,329990
-123625,ASUS VG279QR,332871,332871,0,0,https://www.solotodo.cl/products/123625-asus-vg279qr,"27.0""",Full HD (1920x1080),4 ms,165 Hz,G-Sync Compatible,Sí,332871
-89463,MSI Optix MAG273,339000,339000,0,0,https://www.solotodo.cl/products/89463-msi-optix-mag273,"27.0""",Full HD (1920x1080),1 ms,144 Hz,No,Sí,339000
-90576,Acer V277 bmix (UM.HV7AA.004),339990,339990,0,0,https://www.solotodo.cl/products/90576-acer-v277-bmix-umhv7aa004,"27.0""",Full HD (1920x1080),4 ms,75 Hz,No,No,339990
-112801,MSI Optix G273QF,347257,347257,0,0,https://www.solotodo.cl/products/112801-msi-optix-g273qf,"27.0""",Quad HD (2560x1440),1 ms,165 Hz,G-Sync Compatible,No,347257
-82594,ASUS ProArt PA278QV,349000,349000,0,0,https://www.solotodo.cl/products/82594-asus-proart-pa278qv,"27.0""",Quad HD (2560x1440),5 ms,75 Hz,No,Sí,349000
-90281,Gigabyte G27Q,349900,349900,0,0,https://www.solotodo.cl/products/90281-gigabyte-g27q,"27.0""",Quad HD (2560x1440),Desconocido,144 Hz,No,Sí,349900
-89801,ASUS VG279QM,498990,498990,0,0,https://www.solotodo.cl/products/89801-asus-vg279qm,"27.0""",Full HD (1920x1080),1 ms,280 Hz,G-Sync Compatible,Sí,498990
-125873,Lenovo L28U-30 (65FAGAC2),349990,349990,0,0,https://www.solotodo.cl/products/125873-lenovo-l28u-30-65fagac2,"28.0""",Ultra HD (3840x2160),6 ms,60 Hz,No,Sí,349990
-124871,MSI Optix MAG301RF,349990,349990,0,0,https://www.solotodo.cl/products/124871-msi-optix-mag301rf,"30.0""",2560x1080,1 ms,200 Hz,G-Sync Compatible,Sí,349990
-98116,Viewsonic VG2755,351330,351330,0,0,https://www.solotodo.cl/products/98116-viewsonic-vg2755,"27.0""",Full HD (1920x1080),5 ms,60 Hz,No,No,351330
-88092,Viewsonic VX2785-2K-MHDU,359990,359990,0,0,https://www.solotodo.cl/products/88092-viewsonic-vx2785-2k-mhdu,"27.0""",Quad HD (2560x1440),5 ms,60 Hz,No,Sí,359990
-116426,Lenovo ThinkVision X1 2nd Gen (61C2GAR1US),379990,379990,0,0,https://www.solotodo.cl/products/116426-lenovo-thinkvision-x1-2nd-gen-61c2gar1us,"27.0""",Ultra HD (3840x2160),4 ms,60 Hz,No,No,379990
-116274,Lenovo ThinkVision X1 (60E2GAR1US),379990,379990,0,0,https://www.solotodo.cl/products/116274-lenovo-thinkvision-x1-60e2gar1us,"27.0""",Ultra HD (3840x2160),6 ms,60 Hz,No,No,379990
-85450,Dell S2721DS (210-AXKP),380924,380924,0,0,https://www.solotodo.cl/products/85450-dell-s2721ds-210-axkp,"27.0""",Quad HD (2560x1440),8 ms,75 Hz,No,Sí,380924
-83851,LG 27QN880-B,384990,384990,0,0,https://www.solotodo.cl/products/83851-lg-27qn880-b,"27.0""",Quad HD (2560x1440),5 ms,60 Hz,No,Sí,384990
-79945,ASUS TUF VG289Q,389990,389990,0,0,https://www.solotodo.cl/products/79945-asus-tuf-vg289q,"28.0""",Ultra HD (3840x2160),5 ms,60 Hz,G-Sync Compatible,Sí,389990
-114637,Lenovo Legion Y27q-20 (65EEGAC1US),389990,389990,0,0,https://www.solotodo.cl/products/114637-lenovo-legion-y27q-20-65eegac1us,"27.0""",Quad HD (2560x1440),3 ms,165 Hz,G-Sync Compatible,No,389990
-111289,Dell P2722HE (210-BBCM),391288,391288,0,0,https://www.solotodo.cl/products/111289-dell-p2722he-210-bbcm,"27.0""",Full HD (1920x1080),5 ms,60 Hz,No,No,391288
-118033,Xiaomi Mi 27″ Desktop Monitor,169990,169990,0,0,https://www.solotodo.cl/products/118033-xiaomi-mi-27-desktop-monitor,"27.0""",Full HD (1920x1080),6 ms,60 Hz,No,No,169990
-98445,LG 27GN880-B,394492,394492,0,0,https://www.solotodo.cl/products/98445-lg-27gn880-b,"27.0""",Quad HD (2560x1440),1 ms,144 Hz,G-Sync Compatible,Sí,394492
-68647,Dell P2720D (210-AULK),413432,413432,0,0,https://www.solotodo.cl/products/68647-dell-p2720d-210-aulk,"27.0""",Quad HD (2560x1440),5 ms,60 Hz,No,No,413432
-64842,LG 34GL750-B,415016,415016,0,0,https://www.solotodo.cl/products/64842-lg-34gl750-b,"34.0""",2560x1080,5 ms,144 Hz,G-Sync Compatible,Sí,415016
-74137,ASUS TUF VG27AQ,429990,429990,0,0,https://www.solotodo.cl/products/74137-asus-tuf-vg27aq,"27.0""",Quad HD (2560x1440),1 ms,165 Hz,G-Sync Compatible,Sí,429990
-121436,LG UltraGear 27GP850-B,433989,433989,0,0,https://www.solotodo.cl/products/121436-lg-ultragear-27gp850-b,"27.0""",Quad HD (2560x1440),1 ms,165 Hz,G-Sync Compatible,Sí,433989
-78572,Viewsonic Elite XG270,439980,439980,0,0,https://www.solotodo.cl/products/78572-viewsonic-elite-xg270,"27.0""",Full HD (1920x1080),1 ms,240 Hz,G-Sync Compatible,Sí,439980
-80590,Samsung U28R550 (LU28R550UQLXZS),448990,448990,0,0,https://www.solotodo.cl/products/80590-samsung-u28r550-lu28r550uqlxzs,"28.0""",Ultra HD (3840x2160),4 ms,60 Hz,No,Sí,448990
-35907,Viewsonic VP2771,454990,454990,0,0,https://www.solotodo.cl/products/35907-viewsonic-vp2771,"27.0""",Quad HD (2560x1440),7 ms,60 Hz,No,No,454990
-68646,Dell P2720DC (210-AULN),459541,459541,0,0,https://www.solotodo.cl/products/68646-dell-p2720dc-210-auln,"27.0""",Quad HD (2560x1440),5 ms,60 Hz,No,No,459541
-85453,Dell S2721QS (210-AXLG),471669,471669,0,0,https://www.solotodo.cl/products/85453-dell-s2721qs-210-axlg,"27.0""",Ultra HD (3840x2160),4 ms,60 Hz,No,Sí,471669
-97118,LG 34BN770-B,479990,479990,0,0,https://www.solotodo.cl/products/97118-lg-34bn770-b,"34.0""",3440x1440,5 ms,60 Hz,No,Sí,479990
-94478,ASUS TUF VG27AQ1A,483351,483351,0,0,https://www.solotodo.cl/products/94478-asus-tuf-vg27aq1a,"27.0""",Quad HD (2560x1440),1 ms,170 Hz,G-Sync,Sí,483351
-91659,ASUS TUF VG27AQL1A,487990,487990,0,0,https://www.solotodo.cl/products/91659-asus-tuf-vg27aql1a,"27.0""",Quad HD (2560x1440),4 ms,170 Hz,No,Sí,487990
-102302,Viewsonic VX2768-2KP-MHD,349990,349990,0,0,https://www.solotodo.cl/products/102302-viewsonic-vx2768-2kp-mhd,"27.0""",Quad HD (2560x1440),3 ms,144 Hz,No,Sí,349990
-121441,LG 27UN880-B,499990,499990,0,0,https://www.solotodo.cl/products/121441-lg-27un880-b,"27.0""",Ultra HD (3840x2160),5 ms,60 Hz,No,Sí,499990
-92362,Dell S2721DGF,556267,556267,0,0,https://www.solotodo.cl/products/92362-dell-s2721dgf,"27.0""",Quad HD (2560x1440),1 ms,155 Hz,No,Sí,556267
-76679,Aorus FI27Q-SA,533990,533990,0,0,https://www.solotodo.cl/products/76679-aorus-fi27q-sa,"27.0""",Quad HD (2560x1440),1 ms,165 Hz,No,Sí,533990
-88091,Dell P2721Q (210-AXLT),579876,579876,0,0,https://www.solotodo.cl/products/88091-dell-p2721q-210-axlt,"27.0""",Ultra HD (3840x2160),5 ms,60 Hz,No,No,579876
-67461,Dell Alienware AW2720HF (210-ATWF),580398,580398,0,0,https://www.solotodo.cl/products/67461-dell-alienware-aw2720hf-210-atwf,"27.0""",Full HD (1920x1080),1 ms,240 Hz,No,Sí,580398
-104179,Dell UltraSharp U2722D (210-AYZE),589866,589866,0,0,https://www.solotodo.cl/products/104179-dell-ultrasharp-u2722d-210-ayze,"27.0""",Quad HD (2560x1440),5 ms,60 Hz,No,No,589866
-109427,ASUS ROG Strix XG27AQ,592800,592800,0,0,https://www.solotodo.cl/products/109427-asus-rog-strix-xg27aq,"27.0""",Quad HD (2560x1440),1 ms,170 Hz,G-Sync Compatible,Sí,592800
-88090,Dell P3221D (210-AXLX),611691,611691,0,0,https://www.solotodo.cl/products/88090-dell-p3221d-210-axlx,"32.0""",Quad HD (2560x1440),5 ms,60 Hz,No,No,611691
-90763,Aorus FI27Q-P-SA,629990,629990,0,0,https://www.solotodo.cl/products/90763-aorus-fi27q-p-sa,"27.0""",Quad HD (2560x1440),1 ms,165 Hz,No,Sí,629990
-83079,LG 34WN750-B,629990,629990,0,0,https://www.solotodo.cl/products/83079-lg-34wn750-b,"34.0""",3440x1440,5 ms,75 Hz,No,Sí,629990
-91716,ASUS ROG Strix XG279Q,642000,642000,0,0,https://www.solotodo.cl/products/91716-asus-rog-strix-xg279q,"27.0""",Quad HD (2560x1440),1 ms,170 Hz,G-Sync Compatible,No,642000
-104479,Dell UltraSharp U2722DE (210-AYZG),644044,644044,0,0,https://www.solotodo.cl/products/104479-dell-ultrasharp-u2722de-210-ayzg,"27.0""",Quad HD (2560x1440),5 ms,60 Hz,No,No,644044
-86308,Viewsonic Elite XG270QG,662990,662990,0,0,https://www.solotodo.cl/products/86308-viewsonic-elite-xg270qg,"27.0""",Quad HD (2560x1440),1 ms,165 Hz,G-Sync,Sí,662990
-99236,Dell C2722DE (210-AYQG),675601,675601,0,0,https://www.solotodo.cl/products/99236-dell-c2722de-210-ayqg,"27.0""",Quad HD (2560x1440),5 ms,60 Hz,No,No,675601
-111385,Dell P3222QE (210-BBCQ),683604,683604,0,0,https://www.solotodo.cl/products/111385-dell-p3222qe-210-bbcq,"32.0""",Ultra HD (3840x2160),5 ms,60 Hz,No,No,683604
-74134,Dell UltraSharp U2720Q,686396,686396,0,0,https://www.solotodo.cl/products/74134-dell-ultrasharp-u2720q,"27.0""",Ultra HD (3840x2160),8 ms,60 Hz,No,No,686396
-125696,Dell P3421W (210-BCEG),721235,721235,0,0,https://www.solotodo.cl/products/125696-dell-p3421w-210-bceg,"34.0""",3440x1440,5 ms,60 Hz,No,No,721235
-125405,Aorus FI27Q-X,829900,829900,0,0,https://www.solotodo.cl/products/125405-aorus-fi27q-x,"27.0""",Quad HD (2560x1440),1 ms,240 Hz,G-Sync Compatible,Sí,829900
-118673,Aorus FI32Q-SA,932990,932990,0,0,https://www.solotodo.cl/products/118673-aorus-fi32q-sa,"32.0""",Quad HD (2560x1440),1 ms,165 Hz,No,Sí,932990
-123989,Viewsonic VP2785-4K,933345,933345,0,0,https://www.solotodo.cl/products/123989-viewsonic-vp2785-4k,"27.0""",Ultra HD (3840x2160),5 ms,60 Hz,No,No,933345
-99135,Dell C3422WE (210-AYQL),979099,979099,0,0,https://www.solotodo.cl/products/99135-dell-c3422we-210-ayql,"34.0""",3440x1440,5 ms,60 Hz,No,No,979099
-91339,Dell Alienware AW2721D (210-AXSW),1081148,1081148,0,0,https://www.solotodo.cl/products/91339-dell-alienware-aw2721d-210-axsw,"27.0""",Quad HD (2560x1440),1 ms,240 Hz,G-Sync,No,1081148
-51980,Dell UltraSharp U3219Q,1086655,1086655,0,0,https://www.solotodo.cl/products/51980-dell-ultrasharp-u3219q,"31,5""",Ultra HD (3840x2160),8 ms,60 Hz,No,No,1086655
-92363,Dell UltraSharp U3421WE,1098018,1098018,0,0,https://www.solotodo.cl/products/92363-dell-ultrasharp-u3421we,"34.0""",3440x1440,5 ms,60 Hz,No,No,1098018
-74135,Dell UltraSharp U4320Q,1158045,1158045,0,0,https://www.solotodo.cl/products/74135-dell-ultrasharp-u4320q,"42,5""",Ultra HD (3840x2160),8 ms,60 Hz,No,No,1158045
-28024,Dell UP3017 (210-AJGT),1213123,1213123,0,0,https://www.solotodo.cl/products/28024-dell-up3017-210-ajgt,"30.0""",2560x1600,6 ms,60 Hz,No,No,1213123
-98423,Dell UltraSharp U3821DW,1379860,1379860,0,0,https://www.solotodo.cl/products/98423-dell-ultrasharp-u3821dw,"38.0""",3840x1600,5 ms,60 Hz,No,No,1379860
-98446,LG 34WN780-B,537137,537137,0,0,https://www.solotodo.cl/products/98446-lg-34wn780-b,"34.0""",3440x1440,5 ms,75 Hz,No,Sí,537137
-119891,HP Z27X G2 (2NJ08A4),2001240,2001240,0,0,https://www.solotodo.cl/products/119891-hp-z27x-g2-2nj08a4,"27.0""",Quad HD (2560x1440),10 ms,60 Hz,No,No,2001240
+id,name,price,today,diff price,diff percent,url,size,resolution,ms,hz,g-sync,freesync,08/12/21,09/12/21,10/12/21,11/12/21,12/12/21
+125873,Lenovo L28U-30 (65FAGAC2),329990,249990,-80000,24,https://www.solotodo.cl/products/125873-lenovo-l28u-30-65fagac2,"28.0""",Ultra HD (3840x2160),6 ms,60 Hz,No,Sí,349990,349990,349990,349990,249990
+124711,Lenovo L27E-30 (66BEKAC2),170361,139990,-30371,18,https://www.solotodo.cl/products/124711-lenovo-l27e-30-66bekac2,"27.0""",Full HD (1920x1080),4 ms,75 Hz,No,Sí,177305,177305,177305,179900,139990
+89801,ASUS VG279QM,482706,414900,-67806,14,https://www.solotodo.cl/products/89801-asus-vg279qm,"27.0""",Full HD (1920x1080),1 ms,280 Hz,G-Sync Compatible,Sí,498990,499990,501111,498541,414900
+90281,Gigabyte G27Q,308734,281290,-27444,9,https://www.solotodo.cl/products/90281-gigabyte-g27q,"27.0""",Quad HD (2560x1440),Desconocido,144 Hz,No,Sí,349900,349900,281290,281290,281290
+98445,LG 27GN880-B,383981,369102,-14879,4,https://www.solotodo.cl/products/98445-lg-27gn880-b,"27.0""",Quad HD (2560x1440),1 ms,144 Hz,G-Sync Compatible,Sí,394492,394492,380934,380884,369102
+111380,Dell P2722H (210-BBCK),253890,249990,-3900,2,https://www.solotodo.cl/products/111380-dell-p2722h-210-bbck,"27.0""",Full HD (1920x1080),5 ms,60 Hz,No,No,256490,256490,256490,249990,249990
+112801,MSI Optix G273QF,349399,346503,-2896,1,https://www.solotodo.cl/products/112801-msi-optix-g273qf,"27.0""",Quad HD (2560x1440),1 ms,165 Hz,G-Sync Compatible,No,347257,347257,352990,352990,346503
+35907,Viewsonic VP2771,452990,449990,-3000,1,https://www.solotodo.cl/products/35907-viewsonic-vp2771,"27.0""",Quad HD (2560x1440),7 ms,60 Hz,No,No,454990,454990,454990,449990,449990
+98116,Viewsonic VG2755,352746,350567,-2179,1,https://www.solotodo.cl/products/98116-viewsonic-vg2755,"27.0""",Full HD (1920x1080),5 ms,60 Hz,No,No,351330,351330,351330,359175,350567
+64834,LG 27GL650F-B,229695,228482,-1213,1,https://www.solotodo.cl/products/64834-lg-27gl650f-b,"27.0""",Full HD (1920x1080),5 ms,144 Hz,G-Sync Compatible,Sí,230500,230500,230500,228492,228482
+83851,LG 27QN880-B,385264,383564,-1700,0,https://www.solotodo.cl/products/83851-lg-27qn880-b,"27.0""",Quad HD (2560x1440),5 ms,60 Hz,No,Sí,384990,384990,384990,387786,383564
+84561,Viewsonic VA2718-SH,170298,169636,-662,0,https://www.solotodo.cl/products/84561-viewsonic-va2718-sh,"27.0""",Full HD (1920x1080),5 ms,75 Hz,No,No,170006,170006,171850,169990,169636
+62313,ASUS VG279Q,289536,288990,-546,0,https://www.solotodo.cl/products/62313-asus-vg279q,"27.0""",Full HD (1920x1080),1 ms,144 Hz,No,Sí,289900,289900,289900,288990,288990
+61973,LG 27UL500-W,322847,322488,-359,0,https://www.solotodo.cl/products/61973-lg-27ul500-w,"27.0""",Ultra HD (3840x2160),5 ms,60 Hz,No,Sí,322873,322873,323000,323000,322488
+64842,LG 34GL750-B,414968,414642,-326,0,https://www.solotodo.cl/products/64842-lg-34gl750-b,"34.0""",2560x1080,5 ms,144 Hz,G-Sync Compatible,Sí,415016,415016,415084,415084,414642
+86946,Viewsonic XG2705,209750,209680,-70,0,https://www.solotodo.cl/products/86946-viewsonic-xg2705,"27.0""",Full HD (1920x1080),1 ms,144 Hz,No,Sí,209790,209800,209790,209690,209680
+84384,LG 27QN600-B,249476,249400,-76,0,https://www.solotodo.cl/products/84384-lg-27qn600-b,"27.0""",Quad HD (2560x1440),5 ms,75 Hz,No,Sí,249500,249500,249490,249490,249400
+83042,LG 32QN600-B,310798,310790,-8,0,https://www.solotodo.cl/products/83042-lg-32qn600-b,"32.0""",Quad HD (2560x1440),5 ms,75 Hz,No,Sí,310800,310800,310800,310800,310790
+78572,Viewsonic Elite XG270,439980,439980,0,0,https://www.solotodo.cl/products/78572-viewsonic-elite-xg270,"27.0""",Full HD (1920x1080),1 ms,240 Hz,G-Sync Compatible,Sí,439980,439980,439980,439980,439980
+116274,Lenovo ThinkVision X1 (60E2GAR1US),379990,379990,0,0,https://www.solotodo.cl/products/116274-lenovo-thinkvision-x1-60e2gar1us,"27.0""",Ultra HD (3840x2160),6 ms,60 Hz,No,No,379990,379990,379990,379990,379990
+71920,HP V270 (2KZ35AA),322990,322990,0,0,https://www.solotodo.cl/products/71920-hp-v270-2kz35aa,"27.0""",Full HD (1920x1080),5 ms,60 Hz,No,No,322990,322990,322990,322990,322990
+92601,Viewsonic VX3276-2K-MHD,329990,329990,0,0,https://www.solotodo.cl/products/92601-viewsonic-vx3276-2k-mhd,"31,5""",Quad HD (2560x1440),4 ms,60 Hz,No,No,329990,329990,329990,329990,329990
+123625,ASUS VG279QR,332871,332871,0,0,https://www.solotodo.cl/products/123625-asus-vg279qr,"27.0""",Full HD (1920x1080),4 ms,165 Hz,G-Sync Compatible,Sí,332871,332871,332871,332871,332871
+125405,Aorus FI27Q-X,829900,829900,0,0,https://www.solotodo.cl/products/125405-aorus-fi27q-x,"27.0""",Quad HD (2560x1440),1 ms,240 Hz,G-Sync Compatible,Sí,829900,829900,829900,829900,829900
+98446,LG 34WN780-B,537137,537137,0,0,https://www.solotodo.cl/products/98446-lg-34wn780-b,"34.0""",3440x1440,5 ms,75 Hz,No,Sí,537137,537137,537137,537137,537137
+102302,Viewsonic VX2768-2KP-MHD,349990,349990,0,0,https://www.solotodo.cl/products/102302-viewsonic-vx2768-2kp-mhd,"27.0""",Quad HD (2560x1440),3 ms,144 Hz,No,Sí,349990,349990,349990,349990,349990
+114637,Lenovo Legion Y27q-20 (65EEGAC1US),389990,389990,0,0,https://www.solotodo.cl/products/114637-lenovo-legion-y27q-20-65eegac1us,"27.0""",Quad HD (2560x1440),3 ms,165 Hz,G-Sync Compatible,No,389990,389990,389990,389990,389990
+101777,Fantech Chimera GM271SF,239990,239990,0,0,https://www.solotodo.cl/products/101777-fantech-chimera-gm271sf,"27.0""",Full HD (1920x1080),4 ms,165 Hz,No,Sí,239990,239990,239990,239990,239990
+104811,Lenovo G27q-20 (66C3GAC1CL),229990,229990,0,0,https://www.solotodo.cl/products/104811-lenovo-g27q-20-66c3gac1cl,"27.0""",Quad HD (2560x1440),5 ms,165 Hz,G-Sync Compatible,Sí,229990,229990,229990,229990,229990
+116426,Lenovo ThinkVision X1 2nd Gen (61C2GAR1US),379990,379990,0,0,https://www.solotodo.cl/products/116426-lenovo-thinkvision-x1-2nd-gen-61c2gar1us,"27.0""",Ultra HD (3840x2160),4 ms,60 Hz,No,No,379990,379990,379990,379990,379990
+88092,Viewsonic VX2785-2K-MHDU,359990,359990,0,0,https://www.solotodo.cl/products/88092-viewsonic-vx2785-2k-mhdu,"27.0""",Quad HD (2560x1440),5 ms,60 Hz,No,Sí,359990,359990,359990,359990,359990
+118673,Aorus FI32Q-SA,932990,932990,0,0,https://www.solotodo.cl/products/118673-aorus-fi32q-sa,"32.0""",Quad HD (2560x1440),1 ms,165 Hz,No,Sí,932990,932990,932990,932990,932990
+94478,ASUS TUF VG27AQ1A,483351,483351,0,0,https://www.solotodo.cl/products/94478-asus-tuf-vg27aq1a,"27.0""",Quad HD (2560x1440),1 ms,170 Hz,G-Sync,Sí,483351,483351,483351,483351,483351
+97118,LG 34BN770-B,479990,479990,0,0,https://www.solotodo.cl/products/97118-lg-34bn770-b,"34.0""",3440x1440,5 ms,60 Hz,No,Sí,479990,479990,479990,479990,479990
+90576,Acer V277 bmix (UM.HV7AA.004),339990,339990,0,0,https://www.solotodo.cl/products/90576-acer-v277-bmix-umhv7aa004,"27.0""",Full HD (1920x1080),4 ms,75 Hz,No,No,339990,339990,339990,339990,339990
+122316,Lenovo C32q-20 (665F8GCC1US),259990,259990,0,0,https://www.solotodo.cl/products/122316-lenovo-c32q-20-665f8gcc1us,"31,5""",Quad HD (2560x1440),4 ms,75 Hz,No,Sí,259990,259990,259990,259990,259990
+124871,MSI Optix MAG301RF,349990,349990,0,0,https://www.solotodo.cl/products/124871-msi-optix-mag301rf,"30.0""",2560x1080,1 ms,200 Hz,G-Sync Compatible,Sí,349990,349990,349990,349990,349990
+90868,Ozone DSP27 IPS,319990,319990,0,0,https://www.solotodo.cl/products/90868-ozone-dsp27-ips,"27.0""",Quad HD (2560x1440),1 ms,144 Hz,G-Sync Compatible,Sí,319990,319990,319990,319990,319990
+74137,ASUS TUF VG27AQ,429990,429990,0,0,https://www.solotodo.cl/products/74137-asus-tuf-vg27aq,"27.0""",Quad HD (2560x1440),1 ms,165 Hz,G-Sync Compatible,Sí,429990,429990,429990,429990,429990
+86308,Viewsonic Elite XG270QG,662990,662990,0,0,https://www.solotodo.cl/products/86308-viewsonic-elite-xg270qg,"27.0""",Quad HD (2560x1440),1 ms,165 Hz,G-Sync,Sí,662990,662990,662990,662990,662990
+80590,Samsung U28R550 (LU28R550UQLXZS),448990,448990,0,0,https://www.solotodo.cl/products/80590-samsung-u28r550-lu28r550uqlxzs,"28.0""",Ultra HD (3840x2160),4 ms,60 Hz,No,Sí,448990,448990,448990,448990,448990
+118033,Xiaomi Mi 27″ Desktop Monitor,169990,169990,0,0,https://www.solotodo.cl/products/118033-xiaomi-mi-27-desktop-monitor,"27.0""",Full HD (1920x1080),6 ms,60 Hz,No,No,169990,169990,169990,169990,169990
+91659,ASUS TUF VG27AQL1A,487990,487990,0,0,https://www.solotodo.cl/products/91659-asus-tuf-vg27aql1a,"27.0""",Quad HD (2560x1440),4 ms,170 Hz,No,Sí,487990,487990,487990,487990,487990
+121441,LG 27UN880-B,499990,499990,0,0,https://www.solotodo.cl/products/121441-lg-27un880-b,"27.0""",Ultra HD (3840x2160),5 ms,60 Hz,No,Sí,499990,499990,499990,499990,499990
+90763,Aorus FI27Q-P-SA,629990,629990,0,0,https://www.solotodo.cl/products/90763-aorus-fi27q-p-sa,"27.0""",Quad HD (2560x1440),1 ms,165 Hz,No,Sí,629990,629990,629990,629990,629990
+83079,LG 34WN750-B,629990,629990,0,0,https://www.solotodo.cl/products/83079-lg-34wn750-b,"34.0""",3440x1440,5 ms,75 Hz,No,Sí,629990,629990,629990,629990,629990
+91716,ASUS ROG Strix XG279Q,642000,642000,0,0,https://www.solotodo.cl/products/91716-asus-rog-strix-xg279q,"27.0""",Quad HD (2560x1440),1 ms,170 Hz,G-Sync Compatible,No,642000,642000,642000,642000,642000
+116301,Lenovo ThinkVision S27e-20 (62AFKAR2CL),149990,149990,0,0,https://www.solotodo.cl/products/116301-lenovo-thinkvision-s27e-20-62afkar2cl,"27.0""",Full HD (1920x1080),4 ms,60 Hz,No,Sí,149990,149990,149990,149990,149990
+79945,ASUS TUF VG289Q,389990,389990,0,0,https://www.solotodo.cl/products/79945-asus-tuf-vg289q,"28.0""",Ultra HD (3840x2160),5 ms,60 Hz,G-Sync Compatible,Sí,389990,389990,389990,389990,389990
+89463,MSI Optix MAG273,339000,339000,0,0,https://www.solotodo.cl/products/89463-msi-optix-mag273,"27.0""",Full HD (1920x1080),1 ms,144 Hz,No,Sí,339000,339000,339000,339000,339000
+43046,Viewsonic VX3211-2K-MHD,329990,329990,0,0,https://www.solotodo.cl/products/43046-viewsonic-vx3211-2k-mhd,"32.0""",Quad HD (2560x1440),3 ms,75 Hz,No,No,329990,329990,329990,329990,329990
+116446,Ozone DSP28 IPS,299990,299990,0,0,https://www.solotodo.cl/products/116446-ozone-dsp28-ips,"28.0""",Ultra HD (3840x2160),4 ms,60 Hz,G-Sync Compatible,Sí,299990,299990,299990,299990,299990
+71822,Viewsonic VA2759-SMH,183872,183872,0,0,https://www.solotodo.cl/products/71822-viewsonic-va2759-smh,"27.0""",Full HD (1920x1080),7 ms,60 Hz,No,No,183872,183872,183872,183872,183872
+115280,Redragon Emerald GM270F165,199990,199990,0,0,https://www.solotodo.cl/products/115280-redragon-emerald-gm270f165,"27.0""",Full HD (1920x1080),1 ms,165 Hz,No,Sí,199990,199990,199990,199990,199990
+103163,Samsung F27T35 (LF27T350FHLXZS),169990,169990,0,0,https://www.solotodo.cl/products/103163-samsung-f27t35-lf27t350fhlxzs,"27.0""",Full HD (1920x1080),5 ms,75 Hz,No,Sí,169990,169990,169990,169990,169990
+72233,BenQ GW2780 (9H.LGELB.QBL),169990,169990,0,0,https://www.solotodo.cl/products/72233-benq-gw2780-9hlgelbqbl,"27.0""",Full HD (1920x1080),5 ms,60 Hz,No,No,169990,169990,169990,169990,169990
+101663,Lenovo ThinkVision T27i-10 (61C6MAR1CL),179990,179990,0,0,https://www.solotodo.cl/products/101663-lenovo-thinkvision-t27i-10-61c6mar1cl,"27.0""",Full HD (1920x1080),6 ms,60 Hz,No,No,179990,179990,179990,179990,179990
+98117,HP V27i (9SV92AA),189990,189990,0,0,https://www.solotodo.cl/products/98117-hp-v27i-9sv92aa,"27.0""",Full HD (1920x1080),5 ms,60 Hz,No,No,189990,189990,189990,189990,189990
+29698,Viewsonic VX2776-SMHD,189990,189990,0,0,https://www.solotodo.cl/products/29698-viewsonic-vx2776-smhd,"27.0""",Full HD (1920x1080),4 ms,60 Hz,No,No,189990,189990,189990,189990,189990
+109427,ASUS ROG Strix XG27AQ,592192,592192,0,0,https://www.solotodo.cl/products/109427-asus-rog-strix-xg27aq,"27.0""",Quad HD (2560x1440),1 ms,170 Hz,G-Sync Compatible,Sí,592800,592800,590976,592192,592192
+81614,LG 27MK430H-B,189990,189990,0,0,https://www.solotodo.cl/products/81614-lg-27mk430h-b,"27.0""",Full HD (1920x1080),5 ms,75 Hz,No,Sí,189990,189990,189990,189990,189990
+34785,Viewsonic VA2719-SMH,189990,189990,0,0,https://www.solotodo.cl/products/34785-viewsonic-va2719-smh,"27.0""",Full HD (1920x1080),5 ms,60 Hz,No,No,189990,189990,189990,189990,189990
+74720,Dell P2719H (210-AQCS),237490,237490,0,0,https://www.solotodo.cl/products/74720-dell-p2719h-210-aqcs,"27.0""",Full HD (1920x1080),8 ms,60 Hz,No,No,237490,237490,237490,237490,237490
+93455,Gigabyte M27F / M27F-SA,259000,259000,0,0,https://www.solotodo.cl/products/93455-gigabyte-m27f-m27f-sa,"27.0""",Full HD (1920x1080),Desconocido,144 Hz,No,Sí,259000,259000,259000,259000,259000
+74600,HP 27fw (3KS64AA),229990,229990,0,0,https://www.solotodo.cl/products/74600-hp-27fw-3ks64aa,"27.0""",Full HD (1920x1080),5 ms,75 Hz,No,No,229990,229990,229990,229990,229990
+57831,Viewsonic VX3276-MHD,278000,278000,0,0,https://www.solotodo.cl/products/57831-viewsonic-vx3276-mhd,"31,5""",Full HD (1920x1080),4 ms,60 Hz,No,No,278000,278000,278000,278000,278000
+89006,Acer HA270 Abi (UM.HW0AA.A01),290990,290990,0,0,https://www.solotodo.cl/products/89006-acer-ha270-abi-umhw0aaa01,"27.0""",Full HD (1920x1080),4 ms,75 Hz,No,Sí,290990,290990,290990,290990,290990
+108337,Lenovo ThinkVision S28u-10 (61E6GAR2CL),219990,219990,0,0,https://www.solotodo.cl/products/108337-lenovo-thinkvision-s28u-10-61e6gar2cl,"28.0""",Ultra HD (3840x2160),6 ms,60 Hz,No,No,219990,219990,219990,219990,219990
+119198,MSI Optix MAG274R2,299990,299990,0,0,https://www.solotodo.cl/products/119198-msi-optix-mag274r2,"27.0""",Full HD (1920x1080),Desconocido,165 Hz,G-Sync Compatible,No,299990,299990,299990,299990,299990
+82807,LG 29WN600-W,299990,299990,0,0,https://www.solotodo.cl/products/82807-lg-29wn600-w,"29.0""",2560x1080,5 ms,75 Hz,No,Sí,299990,299990,299990,299990,299990
+82594,ASUS ProArt PA278QV,349000,349000,0,0,https://www.solotodo.cl/products/82594-asus-proart-pa278qv,"27.0""",Quad HD (2560x1440),5 ms,75 Hz,No,Sí,349000,349000,349000,349000,349000
+123254,"Epsylon White (27"" / Full HD / 144 Hz)",279990,279990,0,0,https://www.solotodo.cl/products/123254-epsylon-white-27-full-hd-144-hz,"27.0""",Full HD (1920x1080),1 ms,144 Hz,No,No,279990,279990,279990,279990,279990
+120217,ASUS VG279Q1A,279990,279990,0,0,https://www.solotodo.cl/products/120217-asus-vg279q1a,"27.0""",Full HD (1920x1080),4 ms,165 Hz,No,Sí,279990,279990,279990,279990,279990
+120157,HP M27fw (2H1A4AA),209990,209990,0,0,https://www.solotodo.cl/products/120157-hp-m27fw-2h1a4aa,"27.0""",Full HD (1920x1080),5 ms,75 Hz,No,Sí,209990,209990,209990,209990,209990
+86061,Lenovo L27i-28 (65E0KAC1CL),219990,219990,0,0,https://www.solotodo.cl/products/86061-lenovo-l27i-28-65e0kac1cl,"27.0""",Full HD (1920x1080),4 ms,75 Hz,No,Sí,219990,219990,219990,219990,219990
+109599,MSI Optix MAG274,299900,299900,0,0,https://www.solotodo.cl/products/109599-msi-optix-mag274,"27.0""",Full HD (1920x1080),1 ms,144 Hz,No,Sí,299900,299900,299900,299900,299900
+85125,Gigabyte G27F / G27F-SA,259990,259990,0,0,https://www.solotodo.cl/products/85125-gigabyte-g27f-g27f-sa,"27.0""",Full HD (1920x1080),Desconocido,144 Hz,No,Sí,259990,259990,259990,259990,259990
+43047,Viewsonic VA2719-2K-SMHD,299990,299990,0,0,https://www.solotodo.cl/products/43047-viewsonic-va2719-2k-smhd,"27.0""",Quad HD (2560x1440),5 ms,60 Hz,No,No,299990,299990,299990,299990,299990
+91165,Gigabyte M27Q / M27Q-SA,345990,345990,0,0,https://www.solotodo.cl/products/91165-gigabyte-m27q-m27q-sa,"27.0""",Quad HD (2560x1440),Desconocido,170 Hz,No,Sí,345990,345990,345990,345990,345990
+108773,Viewsonic VG2748,299990,299990,0,0,https://www.solotodo.cl/products/108773-viewsonic-vg2748,"27.0""",Full HD (1920x1080),5 ms,75 Hz,No,No,299990,299990,299990,299990,299990
+92704,MSI Optix MAG274R,209990,209990,0,0,https://www.solotodo.cl/products/92704-msi-optix-mag274r,"27.0""",Full HD (1920x1080),1 ms,144 Hz,G-Sync Compatible,Sí,209990,209990,209990,209990,209990
+66654,LG 49WL95C-W,1607496,1607496,0,0,https://www.solotodo.cl/products/66654-lg-49wl95c-w,"49.0""",5120x1440,5 ms,60 Hz,No,No,,,,1607496,1607496
+81959,LG 32MN500M-B,222875,222912,37,-0,https://www.solotodo.cl/products/81959-lg-32mn500m-b,"32.0""",Full HD (1920x1080),5 ms,60 Hz,No,Sí,222819,222819,222912,222912,222912
+119891,HP Z27X G2 (2NJ08A4),1998060,1998820,760,-0,https://www.solotodo.cl/products/119891-hp-z27x-g2-2nj08a4,"27.0""",Quad HD (2560x1440),10 ms,60 Hz,No,No,2001240,1996510,1994910,1998820,1998820
+76550,ASUS VA27EHE,178725,179500,775,-0,https://www.solotodo.cl/products/76550-asus-va27ehe,"27.0""",Full HD (1920x1080),5 ms,75 Hz,No,Sí,175500,179541,179541,179541,179500
+123989,Viewsonic VP2785-4K,953641,958715,5074,-1,https://www.solotodo.cl/products/123989-viewsonic-vp2785-4k,"27.0""",Ultra HD (3840x2160),5 ms,60 Hz,No,No,933345,958715,958715,958715,958715
+100392,Viewsonic VX2758-2KP-MHD,334140,335940,1800,-1,https://www.solotodo.cl/products/100392-viewsonic-vx2758-2kp-mhd,"27.0""",Quad HD (2560x1440),1 ms,144 Hz,No,Sí,326491,336340,335990,335940,335940
+76679,Aorus FI27Q-SA,538834,546100,7266,-1,https://www.solotodo.cl/products/76679-aorus-fi27q-sa,"27.0""",Quad HD (2560x1440),1 ms,165 Hz,No,Sí,533990,533990,533990,546100,546100
+79395,MSI Optix G271,216990,219990,3000,-1,https://www.solotodo.cl/products/79395-msi-optix-g271,"27.0""",Full HD (1920x1080),4 ms,144 Hz,No,Sí,214990,214990,214990,219990,219990
+111289,Dell P2722HE (210-BBCM),397158,403027,5870,-1,https://www.solotodo.cl/products/111289-dell-p2722he-210-bbcm,"27.0""",Full HD (1920x1080),5 ms,60 Hz,No,No,391288,391288,,403027,403027
+125696,Dell P3421W (210-BCEG),732054,742873,10819,-1,https://www.solotodo.cl/products/125696-dell-p3421w-210-bceg,"34.0""",3440x1440,5 ms,60 Hz,No,No,721235,721235,,742873,742873
+91339,Dell Alienware AW2721D (210-AXSW),1097366,1113584,16218,-1,https://www.solotodo.cl/products/91339-dell-alienware-aw2721d-210-axsw,"27.0""",Quad HD (2560x1440),1 ms,240 Hz,G-Sync,No,1081148,1081148,,1113584,1113584
+120163,Dell E2722HS (210-BBWU),292914,297243,4329,-1,https://www.solotodo.cl/products/120163-dell-e2722hs-210-bbwu,"27.0""",Full HD (1920x1080),8 ms,60 Hz,No,No,288585,,288585,297243,297243
+104179,Dell UltraSharp U2722D (210-AYZE),598714,607563,8848,-1,https://www.solotodo.cl/products/104179-dell-ultrasharp-u2722d-210-ayze,"27.0""",Quad HD (2560x1440),5 ms,60 Hz,No,No,589866,589866,,607563,607563
+85453,Dell S2721QS (210-AXLG),477329,485819,8490,-2,https://www.solotodo.cl/products/85453-dell-s2721qs-210-axlg,"27.0""",Ultra HD (3840x2160),4 ms,60 Hz,No,Sí,471669,471669,471669,485819,485819
+92362,Dell S2721DGF,562942,572955,10013,-2,https://www.solotodo.cl/products/92362-dell-s2721dgf,"27.0""",Quad HD (2560x1440),1 ms,155 Hz,No,Sí,556267,556267,556267,572955,572955
+68647,Dell P2720D (210-AULK),418393,425835,7442,-2,https://www.solotodo.cl/products/68647-dell-p2720d-210-aulk,"27.0""",Quad HD (2560x1440),5 ms,60 Hz,No,No,413432,413432,413432,425835,425835
+85456,Dell S2721H (210-AXJW),316586,322217,5631,-2,https://www.solotodo.cl/products/85456-dell-s2721h-210-axjw,"27.0""",Full HD (1920x1080),4 ms,75 Hz,No,Sí,312832,312832,312832,322217,322217
+92363,Dell UltraSharp U3421WE,1111194,1130959,19765,-2,https://www.solotodo.cl/products/92363-dell-ultrasharp-u3421we,"34.0""",3440x1440,5 ms,60 Hz,No,No,1098018,1098018,1098018,1130959,1130959
+85451,Dell S2721HN (210-AXJY),304370,309784,5414,-2,https://www.solotodo.cl/products/85451-dell-s2721hn-210-axjy,"27.0""",Full HD (1920x1080),4 ms,75 Hz,No,Sí,300761,300761,300761,309784,309784
+99135,Dell C3422WE (210-AYQL),990849,1008473,17624,-2,https://www.solotodo.cl/products/99135-dell-c3422we-210-ayql,"34.0""",3440x1440,5 ms,60 Hz,No,No,979099,979099,979099,1008473,1008473
+104479,Dell UltraSharp U2722DE (210-AYZG),651773,663366,11593,-2,https://www.solotodo.cl/products/104479-dell-ultrasharp-u2722de-210-ayzg,"27.0""",Quad HD (2560x1440),5 ms,60 Hz,No,No,644044,644044,644044,663366,663366
+28024,Dell UP3017 (210-AJGT),1227681,1249518,21837,-2,https://www.solotodo.cl/products/28024-dell-up3017-210-ajgt,"30.0""",2560x1600,6 ms,60 Hz,No,No,1213123,1213123,1213123,1249518,1249518
+88091,Dell P2721Q (210-AXLT),586835,597273,10438,-2,https://www.solotodo.cl/products/88091-dell-p2721q-210-axlt,"27.0""",Ultra HD (3840x2160),5 ms,60 Hz,No,No,579876,579876,579876,597273,597273
+51980,Dell UltraSharp U3219Q,1099695,1119256,19561,-2,https://www.solotodo.cl/products/51980-dell-ultrasharp-u3219q,"31,5""",Ultra HD (3840x2160),8 ms,60 Hz,No,No,1086655,1086655,1086655,1119256,1119256
+111385,Dell P3222QE (210-BBCQ),691808,704113,12305,-2,https://www.solotodo.cl/products/111385-dell-p3222qe-210-bbcq,"32.0""",Ultra HD (3840x2160),5 ms,60 Hz,No,No,683604,683604,683604,704113,704113
+74135,Dell UltraSharp U4320Q,1171942,1192788,20846,-2,https://www.solotodo.cl/products/74135-dell-ultrasharp-u4320q,"42,5""",Ultra HD (3840x2160),8 ms,60 Hz,No,No,1158045,1158045,1158045,1192788,1192788
+99236,Dell C2722DE (210-AYQG),683709,695870,12161,-2,https://www.solotodo.cl/products/99236-dell-c2722de-210-ayqg,"27.0""",Quad HD (2560x1440),5 ms,60 Hz,No,No,675601,675601,675601,695870,695870
+98423,Dell UltraSharp U3821DW,1396419,1421258,24839,-2,https://www.solotodo.cl/products/98423-dell-ultrasharp-u3821dw,"38.0""",3840x1600,5 ms,60 Hz,No,No,1379860,1379860,1379860,1421258,1421258
+74134,Dell UltraSharp U2720Q,694633,706989,12356,-2,https://www.solotodo.cl/products/74134-dell-ultrasharp-u2720q,"27.0""",Ultra HD (3840x2160),8 ms,60 Hz,No,No,686396,686396,686396,706989,706989
+68646,Dell P2720DC (210-AULN),465056,473328,8272,-2,https://www.solotodo.cl/products/68646-dell-p2720dc-210-auln,"27.0""",Quad HD (2560x1440),5 ms,60 Hz,No,No,459541,459541,459541,473328,473328
+67461,Dell Alienware AW2720HF (210-ATWF),587363,597811,10448,-2,https://www.solotodo.cl/products/67461-dell-alienware-aw2720hf-210-atwf,"27.0""",Full HD (1920x1080),1 ms,240 Hz,No,Sí,580398,580398,580398,597811,597811
+88090,Dell P3221D (210-AXLX),619032,630043,11011,-2,https://www.solotodo.cl/products/88090-dell-p3221d-210-axlx,"32.0""",Quad HD (2560x1440),5 ms,60 Hz,No,No,611691,611691,611691,630043,630043
+85450,Dell S2721DS (210-AXKP),385496,392353,6857,-2,https://www.solotodo.cl/products/85450-dell-s2721ds-210-axkp,"27.0""",Quad HD (2560x1440),8 ms,75 Hz,No,Sí,380924,380924,380924,392353,392353
+96754,Acer R271 Bbix (UM.HR1AA.B01),191396,199000,7604,-4,https://www.solotodo.cl/products/96754-acer-r271-bbix-umhr1aab01,"27.0""",Full HD (1920x1080),5 ms,75 Hz,No,Sí,179990,179990,199000,199000,199000
+101661,Lenovo ThinkVision P32p-20 (62A2GAR2CL),379990,399990,20000,-5,https://www.solotodo.cl/products/101661-lenovo-thinkvision-p32p-20-62a2gar2cl,"31,5""",Ultra HD (3840x2160),6 ms,60 Hz,No,No,399990,399990,399990,299990,399990
+121436,LG UltraGear 27GP850-B,433989,,,,https://www.solotodo.cl/products/121436-lg-ultragear-27gp850-b,"27.0""",Quad HD (2560x1440),1 ms,165 Hz,G-Sync Compatible,Sí,433989,433989,,433989,

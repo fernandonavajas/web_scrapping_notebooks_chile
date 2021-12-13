@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 
 
 def find_notebooks(driver):
-  print("Searching Notebooks")
+  print("Searching Notebooks", end="  pages  => ")
   df = pd.read_csv('notebooks/processes.csv')
   n_processes = len(df.index)
   n = 0

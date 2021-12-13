@@ -1,107 +1,111 @@
-id,name,price,today,diff price,diff percent,url,capacity,bus,format,08/12/21
-113346,Hikvision E100N 512 GB (HS-SSD-E100N/512G),52900,52900,0,0,https://www.solotodo.cl/products/113346-hikvision-e100n-512-gb-hs-ssd-e100n512g,512 GB,SATA 3 (6.0 Gb/s),M.2,52900
-56722,Samsung 970 Evo Plus 500 GB (MZ-V7S500B/AM),99990,99990,0,0,https://www.solotodo.cl/products/56722-samsung-970-evo-plus-500-gb-mz-v7s500bam,500 GB,PCI Express 3.0,M.2,99990
-43981,Western Digital Blue 3D NAND 500 GB (WDS500G2B0B),57000,57000,0,0,https://www.solotodo.cl/products/43981-western-digital-blue-3d-nand-500-gb-wds500g2b0b,500 GB,SATA 3 (6.0 Gb/s),M.2,57000
-51557,Intel 660P 512 GB (SSDPEKNW512G8X1),59900,59900,0,0,https://www.solotodo.cl/products/51557-intel-660p-512-gb-ssdpeknw512g8x1,512 GB,PCI Express 3.0,M.2,59900
-60949,Gigabyte 512 GB (GP-GSM2NE8512GNTD),62900,62900,0,0,https://www.solotodo.cl/products/60949-gigabyte-512-gb-gp-gsm2ne8512gntd,512 GB,PCI Express 3.0,M.2,62900
-55890,A-DATA XPG SX8200 Pro 512 GB (ASX8200PNP-512GT-C),63175,63175,0,0,https://www.solotodo.cl/products/55890-a-data-xpg-sx8200-pro-512-gb-asx8200pnp-512gt-c,512 GB,PCI Express 3.0,M.2,63175
-65076,Kingston A2000 500 GB (SA2000M8/500G),63990,63990,0,0,https://www.solotodo.cl/products/65076-kingston-a2000-500-gb-sa2000m8500g,500 GB,PCI Express 3.0,M.2,63990
-82930,Kingston KC2500 500 GB (SKC2500M8/500G),64990,64990,0,0,https://www.solotodo.cl/products/82930-kingston-kc2500-500-gb-skc2500m8500g,500 GB,PCI Express 3.0,M.2,64990
-65394,A-DATA XPG Spectrix S40G RGB 512 GB (AS40G-512GT-C),67800,67800,0,0,https://www.solotodo.cl/products/65394-a-data-xpg-spectrix-s40g-rgb-512-gb-as40g-512gt-c,512 GB,PCI Express 3.0,M.2,67800
-58606,Western Digital Black SN750 500 GB (WDS500G3X0C),68552,68552,0,0,https://www.solotodo.cl/products/58606-western-digital-black-sn750-500-gb-wds500g3x0c,500 GB,PCI Express 3.0,M.2,68552
-86976,Patriot Viper VPN100 512 GB (VPN100-512GM28H),69900,69900,0,0,https://www.solotodo.cl/products/86976-patriot-viper-vpn100-512-gb-vpn100-512gm28h,512 GB,PCI Express 3.0,M.2,69900
-104906,Crucial P5 500 GB (CT500P5SSD8),69927,69927,0,0,https://www.solotodo.cl/products/104906-crucial-p5-500-gb-ct500p5ssd8,500 GB,PCI Express 3.0,M.2,69927
-111406,Hikvision E2000 512 GB (HS-SSD-E2000/512G),70500,70500,0,0,https://www.solotodo.cl/products/111406-hikvision-e2000-512-gb-hs-ssd-e2000512g,512 GB,PCI Express 3.0,M.2,70500
-121150,Gigabyte M30 512 GB (GP-GM30512G-G),74900,74900,0,0,https://www.solotodo.cl/products/121150-gigabyte-m30-512-gb-gp-gm30512g-g,512 GB,PCI Express 3.0,M.2,74900
-123981,Hikvision E3000 512 GB (HS-SSD-E3000/512G),75000,75000,0,0,https://www.solotodo.cl/products/123981-hikvision-e3000-512-gb-hs-ssd-e3000512g,512 GB,PCI Express 3.0,M.2,75000
-73547,Western Digital Red SA500 500 GB (WDS500G1R0B),75900,75900,0,0,https://www.solotodo.cl/products/73547-western-digital-red-sa500-500-gb-wds500g1r0b,500 GB,SATA 3 (6.0 Gb/s),M.2,75900
-80601,A-DATA XPG SX8100 512 GB (ASX8100NP-512GT-C),75900,75900,0,0,https://www.solotodo.cl/products/80601-a-data-xpg-sx8100-512-gb-asx8100np-512gt-c,512 GB,PCI Express 3.0,M.2,75900
-91677,Patriot Viper VPR100 512 GB (VPR100-512GM28H),84900,84900,0,0,https://www.solotodo.cl/products/91677-patriot-viper-vpr100-512-gb-vpr100-512gm28h,512 GB,PCI Express 3.0,M.2,84900
-91678,Western Digital Black SN750 500 GB (WDBRPG5000ANC-WRSN),85090,85090,0,0,https://www.solotodo.cl/products/91678-western-digital-black-sn750-500-gb-wdbrpg5000anc-wrsn,500 GB,PCI Express 3.0,M.2,85090
-108258,Team T-Force Cardea Liquid 512 GB (TM8FP5512G0C119),89000,89000,0,0,https://www.solotodo.cl/products/108258-team-t-force-cardea-liquid-512-gb-tm8fp5512g0c119,512 GB,PCI Express 3.0,M.2,89000
-113347,Hikvision E100N 1 TB (HS-SSD-E100N/1024G),89900,89900,0,0,https://www.solotodo.cl/products/113347-hikvision-e100n-1-tb-hs-ssd-e100n1024g,1 TB,SATA 3 (6.0 Gb/s),M.2,89900
-60612,Western Digital Black 500 GB (WDS500G3XHC),91990,91990,0,0,https://www.solotodo.cl/products/60612-western-digital-black-500-gb-wds500g3xhc,500 GB,PCI Express 3.0,M.2,91990
-42076,Western Digital Blue 3D NAND 1 TB (WDS100T2B0B),96990,96990,0,0,https://www.solotodo.cl/products/42076-western-digital-blue-3d-nand-1-tb-wds100t2b0b,1 TB,SATA 3 (6.0 Gb/s),M.2,96990
-88314,Gigabyte AORUS Gen4 500 GB (GP-AG4500G),99266,99266,0,0,https://www.solotodo.cl/products/88314-gigabyte-aorus-gen4-500-gb-gp-ag4500g,500 GB,PCI Express 4.0,M.2,99266
-118836,Gigabyte M30 1 TB (GP-GM301TB-G),149000,149000,0,0,https://www.solotodo.cl/products/118836-gigabyte-m30-1-tb-gp-gm301tb-g,1 TB,PCI Express 3.0,M.2,149000
-115072,Hikvision E1000 512 GB (HS-SSD-E1000/512G/MINDER),56900,56900,0,0,https://www.solotodo.cl/products/115072-hikvision-e1000-512-gb-hs-ssd-e1000512gminder,512 GB,PCI Express 3.0,M.2,56900
-68571,Team T-Force Cardea II 512 GB (TM8FP5512G0C110),104900,104900,0,0,https://www.solotodo.cl/products/68571-team-t-force-cardea-ii-512-gb-tm8fp5512g0c110,512 GB,PCI Express 3.0,M.2,104900
-120811,Team T-Force Cardea A440 1 TB (TM8FPZ001T0C327),249000,249000,0,0,https://www.solotodo.cl/products/120811-team-t-force-cardea-a440-1-tb-tm8fpz001t0c327,1 TB,PCI Express 4.0,M.2,249000
-102977,PNY CS1030 1 TB (M280CS1030-1TB-CL),104990,104990,0,0,https://www.solotodo.cl/products/102977-pny-cs1030-1-tb-m280cs1030-1tb-cl,1 TB,PCI Express 3.0,M.2,104990
-66386,Gigabyte Aorus 500 GB (GP-ASM2NE6500GTTD),109433,109433,0,0,https://www.solotodo.cl/products/66386-gigabyte-aorus-500-gb-gp-asm2ne6500gttd,500 GB,PCI Express 4.0,M.2,109433
-100186,Team MP33 1 TB (TM8FP6001T0C101),109900,109900,0,0,https://www.solotodo.cl/products/100186-team-mp33-1-tb-tm8fp6001t0c101,1 TB,PCI Express 3.0,M.2,109900
-30474,Western Digital Blue 500 GB (WDS500G1B0B),113696,113696,0,0,https://www.solotodo.cl/products/30474-western-digital-blue-500-gb-wds500g1b0b,500 GB,SATA 3 (6.0 Gb/s),M.2,113696
-103162,Seagate BarraCuda Q5 1 TB (ZP1000CV3A001),114900,114900,0,0,https://www.solotodo.cl/products/103162-seagate-barracuda-q5-1-tb-zp1000cv3a001,1 TB,PCI Express 3.0,M.2,114900
-93091,Western Digital Black SN850 500 GB (WDS500G1X0E),114990,114990,0,0,https://www.solotodo.cl/products/93091-western-digital-black-sn850-500-gb-wds500g1x0e,500 GB,PCI Express 4.0,M.2,114990
-112793,Apacer PP3480 1 TB (AP1TPP3480-R),115990,115990,0,0,https://www.solotodo.cl/products/112793-apacer-pp3480-1-tb-ap1tpp3480-r,1 TB,PCI Express 3.0,M.2,115990
-125633,Kingston KC3000 512 GB (SKC3000S/512G),115990,115990,0,0,https://www.solotodo.cl/products/125633-kingston-kc3000-512-gb-skc3000s512g,512 GB,PCI Express 4.0,M.2,115990
-82010,Gigabyte 1 TB (GP-GSM2NE3100TNTD),117316,117316,0,0,https://www.solotodo.cl/products/82010-gigabyte-1-tb-gp-gsm2ne3100tntd,1 TB,PCI Express 3.0,M.2,117316
-112698,Team MP33 1 TB (TM8FP6001TDC101),119500,119500,0,0,https://www.solotodo.cl/products/112698-team-mp33-1-tb-tm8fp6001tdc101,1 TB,PCI Express 3.0,M.2,119500
-122365,MSI Spatium M370 1 TB (SPATIUM M370 NVMe M.2 1TB),119900,119900,0,0,https://www.solotodo.cl/products/122365-msi-spatium-m370-1-tb-spatium-m370-nvme-m2-1tb,1 TB,PCI Express 3.0,M.2,119900
-99333,Corsair Force MP600 500 GB (CSSD-F500GBMP600),106425,106425,0,0,https://www.solotodo.cl/products/99333-corsair-force-mp600-500-gb-cssd-f500gbmp600,500 GB,PCI Express 4.0,M.2,106425
-114081,Lexar NM620 1 TB (LNM620X001T-RNNNG),119990,119990,0,0,https://www.solotodo.cl/products/114081-lexar-nm620-1-tb-lnm620x001t-rnnng,1 TB,PCI Express 3.0,M.2,119990
-55889,A-DATA XPG SX8200 Pro 1 TB (ASX8200PNP-1TT-C),126800,126800,0,0,https://www.solotodo.cl/products/55889-a-data-xpg-sx8200-pro-1-tb-asx8200pnp-1tt-c,1 TB,PCI Express 3.0,M.2,126800
-82932,Kingston KC2500 1 TB (SKC2500M8/1000G),129805,129805,0,0,https://www.solotodo.cl/products/82932-kingston-kc2500-1-tb-skc2500m81000g,1 TB,PCI Express 3.0,M.2,129805
-87940,Seagate FireCuda 520 500 GB (ZP500GM3A002),130986,130986,0,0,https://www.solotodo.cl/products/87940-seagate-firecuda-520-500-gb-zp500gm3a002,500 GB,PCI Express 4.0,M.2,130986
-116095,Intel 670P 1 TB (SSDPEKNU010TZX1),131800,131800,0,0,https://www.solotodo.cl/products/116095-intel-670p-1-tb-ssdpeknu010tzx1,1 TB,PCI Express 3.0,M.2,131800
-65075,Kingston A2000 1 TB (SA2000M8/1000G),134990,134990,0,0,https://www.solotodo.cl/products/65075-kingston-a2000-1-tb-sa2000m81000g,1 TB,PCI Express 3.0,M.2,134990
-65395,A-DATA XPG Spectrix S40G RGB 1 TB (AS40G-1TT-C),135100,135100,0,0,https://www.solotodo.cl/products/65395-a-data-xpg-spectrix-s40g-rgb-1-tb-as40g-1tt-c,1 TB,PCI Express 3.0,M.2,135100
-123931,Hikvision E3000 1 TB (HS-SSD-E3000/1024G),138000,138000,0,0,https://www.solotodo.cl/products/123931-hikvision-e3000-1-tb-hs-ssd-e30001024g,1 TB,PCI Express 3.0,M.2,138000
-87306,Asgard AN3 1 TB (ASNVP1TB3DDC1SGBR),140000,140000,0,0,https://www.solotodo.cl/products/87306-asgard-an3-1-tb-asnvp1tb3ddc1sgbr,1 TB,PCI Express 3.0,M.2,140000
-104905,Crucial P5 1 TB (CT1000P5SSD8),143726,143726,0,0,https://www.solotodo.cl/products/104905-crucial-p5-1-tb-ct1000p5ssd8,1 TB,PCI Express 3.0,M.2,143726
-60202,Western Digital Black SN750 1 TB (WDS100T3X0C),148190,148190,0,0,https://www.solotodo.cl/products/60202-western-digital-black-sn750-1-tb-wds100t3x0c,1 TB,PCI Express 3.0,M.2,148190
-52700,Intel 660P 1 TB (SSDPEKNW010T8X1),123563,123563,0,0,https://www.solotodo.cl/products/52700-intel-660p-1-tb-ssdpeknw010t8x1,1 TB,PCI Express 3.0,M.2,123563
-109134,Team T-Force Cardea Liquid 1 TB (TM8FP5001T0C119),149000,149000,0,0,https://www.solotodo.cl/products/109134-team-t-force-cardea-liquid-1-tb-tm8fp5001t0c119,1 TB,PCI Express 3.0,M.2,149000
-60614,Western Digital Black 1 TB (WDS100T3XHC),149990,149990,0,0,https://www.solotodo.cl/products/60614-western-digital-black-1-tb-wds100t3xhc,1 TB,PCI Express 3.0,M.2,149990
-120630,Corsair MP400 1 TB (CSSD-F1000GBMP400R2),151990,151990,0,0,https://www.solotodo.cl/products/120630-corsair-mp400-1-tb-cssd-f1000gbmp400r2,1 TB,PCI Express 3.0,M.2,151990
-118833,Gigabyte AORUS Gen4 7000s 1 TB (GP-AG70S1TB),269900,269900,0,0,https://www.solotodo.cl/products/118833-gigabyte-aorus-gen4-7000s-1-tb-gp-ag70s1tb,1 TB,PCI Express 4.0,M.2,269900
-93916,Samsung 980 Pro 500 GB (MZ-V8P500B/AM),151990,151990,0,0,https://www.solotodo.cl/products/93916-samsung-980-pro-500-gb-mz-v8p500bam,500 GB,PCI Express 4.0,M.2,151990
-99332,Corsair Force MP600 1 TB (CSSD-F1000GBMP600),159638,159638,0,0,https://www.solotodo.cl/products/99332-corsair-force-mp600-1-tb-cssd-f1000gbmp600,1 TB,PCI Express 4.0,M.2,159638
-68572,Team T-Force Cardea II 1 TB (TM8FP5001T0C110),161437,161437,0,0,https://www.solotodo.cl/products/68572-team-t-force-cardea-ii-1-tb-tm8fp5001t0c110,1 TB,PCI Express 3.0,M.2,161437
-119722,Corsair Force MP600 Core 1 TB (CSSD-F1000GBMP600COR),168990,168990,0,0,https://www.solotodo.cl/products/119722-corsair-force-mp600-core-1-tb-cssd-f1000gbmp600cor,1 TB,PCI Express 4.0,M.2,168990
-56883,Samsung 970 Evo Plus 1 TB (MZ-V7S1T0B/AM),174990,174990,0,0,https://www.solotodo.cl/products/56883-samsung-970-evo-plus-1-tb-mz-v7s1t0bam,1 TB,PCI Express 3.0,M.2,174990
-87982,Seagate BarraCuda 510 1 TB (ZP1000CM3A001),177990,177990,0,0,https://www.solotodo.cl/products/87982-seagate-barracuda-510-1-tb-zp1000cm3a001,1 TB,PCI Express 3.0,M.2,177990
-89417,Team T-Force Cardea II TUF Gaming Alliance 1 TB (TM8FPB001T0C310),179900,179900,0,0,https://www.solotodo.cl/products/89417-team-t-force-cardea-ii-tuf-gaming-alliance-1-tb-tm8fpb001t0c310,1 TB,PCI Express 3.0,M.2,179900
-73551,Western Digital Red SA500 1 TB (WDS100T1R0B),179990,179990,0,0,https://www.solotodo.cl/products/73551-western-digital-red-sa500-1-tb-wds100t1r0b,1 TB,SATA 3 (6.0 Gb/s),M.2,179990
-88900,Gigabyte AORUS Gen4 1 TB (GP-AG41TB),184900,184900,0,0,https://www.solotodo.cl/products/88900-gigabyte-aorus-gen4-1-tb-gp-ag41tb,1 TB,PCI Express 4.0,M.2,184900
-93093,Western Digital Black SN850 1 TB (WDS100T1X0E),189990,189990,0,0,https://www.solotodo.cl/products/93093-western-digital-black-sn850-1-tb-wds100t1x0e,1 TB,PCI Express 4.0,M.2,189990
-125632,Kingston KC3000 1 TB (SKC3000S/1024G),190490,190490,0,0,https://www.solotodo.cl/products/125632-kingston-kc3000-1-tb-skc3000s1024g,1 TB,PCI Express 4.0,M.2,190490
-126761,Samsung 983 DCT 960 GB (MZ-1LB960NE),195586,195586,0,0,https://www.solotodo.cl/products/126761-samsung-983-dct-960-gb-mz-1lb960ne,960 GB,PCI Express 3.0,M.2,195586
-109136,Team T-Force Cardea Ceramic C440 1 TB (TM8FPA001T0C410),199000,199000,0,0,https://www.solotodo.cl/products/109136-team-t-force-cardea-ceramic-c440-1-tb-tm8fpa001t0c410,1 TB,PCI Express 4.0,M.2,199000
-125108,Crucial P5 Plus 1 TB (CT1000P5PSSD8),199750,199750,0,0,https://www.solotodo.cl/products/125108-crucial-p5-plus-1-tb-ct1000p5pssd8,1 TB,PCI Express 4.0,M.2,199750
-62198,A-DATA XPG SX6000 Lite 1 TB (ASX6000LNP-1TT-C),199990,199990,0,0,https://www.solotodo.cl/products/62198-a-data-xpg-sx6000-lite-1-tb-asx6000lnp-1tt-c,1 TB,PCI Express 3.0,M.2,199990
-68881,Gigabyte Aorus 1 TB (GP-ASM2NE6100TTTD),203053,203053,0,0,https://www.solotodo.cl/products/68881-gigabyte-aorus-1-tb-gp-asm2ne6100tttd,1 TB,PCI Express 4.0,M.2,203053
-85190,Seagate FireCuda 520 1 TB (ZP1000GM3A002),207543,207543,0,0,https://www.solotodo.cl/products/85190-seagate-firecuda-520-1-tb-zp1000gm3a002,1 TB,PCI Express 4.0,M.2,207543
-124016,Western Digital Black SN850 500 GB (WDS500G1XHE),208990,208990,0,0,https://www.solotodo.cl/products/124016-western-digital-black-sn850-500-gb-wds500g1xhe,500 GB,PCI Express 4.0,M.2,208990
-123420,Team MP33 2 TB (TM8FP6002T0C101),212500,212500,0,0,https://www.solotodo.cl/products/123420-team-mp33-2-tb-tm8fp6002t0c101,2 TB,PCI Express 3.0,M.2,212500
-66411,Seagate FireCuda 510 1 TB (ZP1000GM30011),214990,214990,0,0,https://www.solotodo.cl/products/66411-seagate-firecuda-510-1-tb-zp1000gm30011,1 TB,PCI Express 3.0,M.2,214990
-120628,Corsair MP600 PRO XT 1 TB (CSSD-F1000GBMP600PXT),220990,220990,0,0,https://www.solotodo.cl/products/120628-corsair-mp600-pro-xt-1-tb-cssd-f1000gbmp600pxt,1 TB,PCI Express 4.0,M.2,220990
-104806,Samsung 980 Pro 1 TB (MZ-V8P1T0B/AM),220990,220990,0,0,https://www.solotodo.cl/products/104806-samsung-980-pro-1-tb-mz-v8p1t0bam,1 TB,PCI Express 4.0,M.2,220990
-112930,Western Digital Black SN850 Call of Duty: Black Ops Cold War 1 TB (WDBB2F0010BNC-WRSN),223758,223758,0,0,https://www.solotodo.cl/products/112930-western-digital-black-sn850-call-of-duty-black-ops-cold-war-1-tb-wdbb2f0010bnc-wrsn,1 TB,PCI Express 4.0,M.2,223758
-43976,Western Digital Blue 3D NAND 2 TB (WDS200T2B0B),236990,236990,0,0,https://www.solotodo.cl/products/43976-western-digital-blue-3d-nand-2-tb-wds200t2b0b,2 TB,SATA 3 (6.0 Gb/s),M.2,236990
-82583,Kingston KC2500 2 TB (SKC2500M8/2000G),257090,257090,0,0,https://www.solotodo.cl/products/82583-kingston-kc2500-2-tb-skc2500m82000g,2 TB,PCI Express 3.0,M.2,257090
-111407,Hikvision E1000 512 GB (HS-SSD-E1000/512G),54900,54900,0,0,https://www.solotodo.cl/products/111407-hikvision-e1000-512-gb-hs-ssd-e1000512g,512 GB,PCI Express 3.0,M.2,54900
-90835,Gigabyte AORUS Gen4 2 TB (GP-AG42TB),379999,379999,0,0,https://www.solotodo.cl/products/90835-gigabyte-aorus-gen4-2-tb-gp-ag42tb,2 TB,PCI Express 4.0,M.2,379999
-120626,Corsair MP400 2 TB (CSSD-F2000GBMP400R2),271990,271990,0,0,https://www.solotodo.cl/products/120626-corsair-mp400-2-tb-cssd-f2000gbmp400r2,2 TB,PCI Express 3.0,M.2,271990
-89892,HP EX950 2 TB (5MS24AA),289000,289000,0,0,https://www.solotodo.cl/products/89892-hp-ex950-2-tb-5ms24aa,2 TB,PCI Express 3.0,M.2,289000
-120625,Corsair Force MP600 Core 2 TB (CSSD-F2000GBMP600COR),289990,289990,0,0,https://www.solotodo.cl/products/120625-corsair-force-mp600-core-2-tb-cssd-f2000gbmp600cor,2 TB,PCI Express 4.0,M.2,289990
-66410,Samsung 970 Evo Plus 2 TB (MZ-V7S2T0B/AM),289990,289990,0,0,https://www.solotodo.cl/products/66410-samsung-970-evo-plus-2-tb-mz-v7s2t0bam,2 TB,PCI Express 3.0,M.2,289990
-126060,Western Digital Black SN850 1 TB (WDS100T1XHE),299990,299990,0,0,https://www.solotodo.cl/products/126060-western-digital-black-sn850-1-tb-wds100t1xhe,1 TB,PCI Express 4.0,M.2,299990
-124017,Gigabyte AORUS Gen4 7000s Prem. 1 TB (GP-AG70S1TB-P),300990,300990,0,0,https://www.solotodo.cl/products/124017-gigabyte-aorus-gen4-7000s-prem-1-tb-gp-ag70s1tb-p,1 TB,PCI Express 4.0,M.2,300990
-99957,A-DATA XPG SX8200 Pro 2 TB (ASX8200PNP-2TT-C),302179,302179,0,0,https://www.solotodo.cl/products/99957-a-data-xpg-sx8200-pro-2-tb-asx8200pnp-2tt-c,2 TB,PCI Express 3.0,M.2,302179
-73550,Western Digital Red SA500 2 TB (WDS200T1R0B),305990,305990,0,0,https://www.solotodo.cl/products/73550-western-digital-red-sa500-2-tb-wds200t1r0b,2 TB,SATA 3 (6.0 Gb/s),M.2,305990
-47679,Samsung 970 Pro 1 TB (MZ-V7P1T0BW),334990,334990,0,0,https://www.solotodo.cl/products/47679-samsung-970-pro-1-tb-mz-v7p1t0bw,1 TB,PCI Express 3.0,M.2,334990
-99334,Corsair Force MP600 2 TB (CSSD-F2000GBMP600),379990,379990,0,0,https://www.solotodo.cl/products/99334-corsair-force-mp600-2-tb-cssd-f2000gbmp600,2 TB,PCI Express 4.0,M.2,379990
-118834,Gigabyte Aorus 2 TB (GP-ASM2NE6200TTTD),397091,397091,0,0,https://www.solotodo.cl/products/118834-gigabyte-aorus-2-tb-gp-asm2ne6200tttd,2 TB,PCI Express 4.0,M.2,397091
-52227,Intel 660P 2 TB (SSDPEKNW020T8X1),265580,265580,0,0,https://www.solotodo.cl/products/52227-intel-660p-2-tb-ssdpeknw020t8x1,2 TB,PCI Express 3.0,M.2,265580
-86081,Team T-Force Cardea Ceramic C440 2 TB (TM8FPA002T0C410),398900,398900,0,0,https://www.solotodo.cl/products/86081-team-t-force-cardea-ceramic-c440-2-tb-tm8fpa002t0c410,2 TB,PCI Express 4.0,M.2,398900
-115168,Samsung 980 Pro 2 TB (MZ-V8P2T0B/AM),403990,403990,0,0,https://www.solotodo.cl/products/115168-samsung-980-pro-2-tb-mz-v8p2t0bam,2 TB,PCI Express 4.0,M.2,403990
-56884,Samsung 860 EVO 2 TB (MZ-N6E2T0BW),404462,404462,0,0,https://www.solotodo.cl/products/56884-samsung-860-evo-2-tb-mz-n6e2t0bw,2 TB,SATA 3 (6.0 Gb/s),M.2,404462
-71534,Western Digital Black SN750 2 TB (WDS200T3X0C),414990,414990,0,0,https://www.solotodo.cl/products/71534-western-digital-black-sn750-2-tb-wds200t3x0c,2 TB,PCI Express 3.0,M.2,414990
-125109,Crucial P5 Plus 2 TB (CT2000P5PSSD8),424990,424990,0,0,https://www.solotodo.cl/products/125109-crucial-p5-plus-2-tb-ct2000p5pssd8,2 TB,PCI Express 4.0,M.2,424990
-125630,Kingston KC3000 2 TB (SKC3000D/2048G),430490,430490,0,0,https://www.solotodo.cl/products/125630-kingston-kc3000-2-tb-skc3000d2048g,2 TB,PCI Express 4.0,M.2,430490
-62016,Kingston KC2000 2 TB (SKC2000M8/2000G),439990,439990,0,0,https://www.solotodo.cl/products/62016-kingston-kc2000-2-tb-skc2000m82000g,2 TB,PCI Express 3.0,M.2,439990
-93092,Western Digital Black SN850 2 TB (WDS200T1X0E),479990,479990,0,0,https://www.solotodo.cl/products/93092-western-digital-black-sn850-2-tb-wds200t1x0e,2 TB,PCI Express 4.0,M.2,479990
-126061,Western Digital Black SN850 2 TB (WDS200T1XHE),496990,496990,0,0,https://www.solotodo.cl/products/126061-western-digital-black-sn850-2-tb-wds200t1xhe,2 TB,PCI Express 4.0,M.2,496990
-118835,Gigabyte AORUS Gen4 7000s 2 TB (GP-AG70S2TB),529000,529000,0,0,https://www.solotodo.cl/products/118835-gigabyte-aorus-gen4-7000s-2-tb-gp-ag70s2tb,2 TB,PCI Express 4.0,M.2,529000
-125631,Kingston KC3000 4 TB (SKC3000D/4096G),1089486,1089486,0,0,https://www.solotodo.cl/products/125631-kingston-kc3000-4-tb-skc3000d4096g,4 TB,PCI Express 4.0,M.2,1089486
+id,name,price,today,diff price,diff percent,url,capacity,bus,format,08/12/21,09/12/21,10/12/21,11/12/21,12/12/21
+71534,Western Digital Black SN750 2 TB (WDS200T3X0C),286990,254990,-32000,11,https://www.solotodo.cl/products/71534-western-digital-black-sn750-2-tb-wds200t3x0c,2 TB,PCI Express 3.0,M.2,414990,254990,254990,254990,254990
+118835,Gigabyte AORUS Gen4 7000s 2 TB (GP-AG70S2TB),505360,469900,-35460,7,https://www.solotodo.cl/products/118835-gigabyte-aorus-gen4-7000s-2-tb-gp-ag70s2tb,2 TB,PCI Express 4.0,M.2,529000,529000,529000,469900,469900
+73551,Western Digital Red SA500 1 TB (WDS100T1R0B),173190,162990,-10200,6,https://www.solotodo.cl/products/73551-western-digital-red-sa500-1-tb-wds100t1r0b,1 TB,SATA 3 (6.0 Gb/s),M.2,179990,179990,179990,162990,162990
+124016,Western Digital Black SN850 500 GB (WDS500G1XHE),181790,174990,-6800,4,https://www.solotodo.cl/products/124016-western-digital-black-sn850-500-gb-wds500g1xhe,500 GB,PCI Express 4.0,M.2,208990,174990,174990,174990,174990
+124017,Gigabyte AORUS Gen4 7000s Prem. 1 TB (GP-AG70S1TB-P),273790,266990,-6800,2,https://www.solotodo.cl/products/124017-gigabyte-aorus-gen4-7000s-prem-1-tb-gp-ag70s1tb-p,1 TB,PCI Express 4.0,M.2,300990,266990,266990,266990,266990
+118833,Gigabyte AORUS Gen4 7000s 1 TB (GP-AG70S1TB),249172,243990,-5182,2,https://www.solotodo.cl/products/118833-gigabyte-aorus-gen4-7000s-1-tb-gp-ag70s1tb,1 TB,PCI Express 4.0,M.2,269900,243990,243990,243990,243990
+68881,Gigabyte Aorus 1 TB (GP-ASM2NE6100TTTD),189403,185990,-3413,2,https://www.solotodo.cl/products/68881-gigabyte-aorus-1-tb-gp-asm2ne6100tttd,1 TB,PCI Express 4.0,M.2,203053,185990,185990,185990,185990
+88900,Gigabyte AORUS Gen4 1 TB (GP-AG41TB),176972,174990,-1982,1,https://www.solotodo.cl/products/88900-gigabyte-aorus-gen4-1-tb-gp-ag41tb,1 TB,PCI Express 4.0,M.2,184900,174990,174990,174990,174990
+99333,Corsair Force MP600 500 GB (CSSD-F500GBMP600),107080,106194,-886,1,https://www.solotodo.cl/products/99333-corsair-force-mp600-500-gb-cssd-f500gbmp600,500 GB,PCI Express 4.0,M.2,106425,106425,106425,109930,106194
+99957,A-DATA XPG SX8200 Pro 2 TB (ASX8200PNP-2TT-C),303782,301522,-2260,1,https://www.solotodo.cl/products/99957-a-data-xpg-sx8200-pro-2-tb-asx8200pnp-2tt-c,2 TB,PCI Express 3.0,M.2,302179,302179,302179,310850,301522
+99332,Corsair Force MP600 1 TB (CSSD-F1000GBMP600),160329,159291,-1038,1,https://www.solotodo.cl/products/99332-corsair-force-mp600-1-tb-cssd-f1000gbmp600,1 TB,PCI Express 4.0,M.2,159638,159638,159638,163440,159291
+52700,Intel 660P 1 TB (SSDPEKNW010T8X1),123945,123295,-650,1,https://www.solotodo.cl/products/52700-intel-660p-1-tb-ssdpeknw010t8x1,1 TB,PCI Express 3.0,M.2,123563,123563,123563,125739,123295
+82932,Kingston KC2500 1 TB (SKC2500M8/1000G),130139,129523,-616,0,https://www.solotodo.cl/products/82932-kingston-kc2500-1-tb-skc2500m81000g,1 TB,PCI Express 3.0,M.2,129805,129805,129805,131759,129523
+125108,Crucial P5 Plus 1 TB (CT1000P5PSSD8),198862,197940,-922,0,https://www.solotodo.cl/products/125108-crucial-p5-plus-1-tb-ct1000p5pssd8,1 TB,PCI Express 4.0,M.2,199750,199340,199290,197990,197940
+55889,A-DATA XPG SX8200 Pro 1 TB (ASX8200PNP-1TT-C),126616,126340,-276,0,https://www.solotodo.cl/products/55889-a-data-xpg-sx8200-pro-1-tb-asx8200pnp-1tt-c,1 TB,PCI Express 3.0,M.2,126800,126800,126800,126340,126340
+125631,Kingston KC3000 4 TB (SKC3000D/4096G),1089022,1087167,-1855,0,https://www.solotodo.cl/products/125631-kingston-kc3000-4-tb-skc3000d4096g,4 TB,PCI Express 4.0,M.2,1089486,1089486,1089486,1089486,1087167
+58606,Western Digital Black SN750 500 GB (WDS500G3X0C),68515,68403,-112,0,https://www.solotodo.cl/products/58606-western-digital-black-sn750-500-gb-wds500g3x0c,500 GB,PCI Express 3.0,M.2,68552,68542,68540,68540,68403
+112930,Western Digital Black SN850 Call of Duty: Black Ops Cold War 1 TB (WDBB2F0010BNC-WRSN),223609,223270,-339,0,https://www.solotodo.cl/products/112930-western-digital-black-sn850-call-of-duty-black-ops-cold-war-1-tb-wdbb2f0010bnc-wrsn,1 TB,PCI Express 4.0,M.2,223758,223758,223758,223500,223270
+52227,Intel 660P 2 TB (SSDPEKNW020T8X1),265931,265590,-341,0,https://www.solotodo.cl/products/52227-intel-660p-2-tb-ssdpeknw020t8x1,2 TB,PCI Express 3.0,M.2,265580,266169,266159,266159,265590
+85190,Seagate FireCuda 520 1 TB (ZP1000GM3A002),207211,206990,-221,0,https://www.solotodo.cl/products/85190-seagate-firecuda-520-1-tb-zp1000gm3a002,1 TB,PCI Express 4.0,M.2,207543,207543,206990,206990,206990
+125109,Crucial P5 Plus 2 TB (CT2000P5PSSD8),424990,424990,0,0,https://www.solotodo.cl/products/125109-crucial-p5-plus-2-tb-ct2000p5pssd8,2 TB,PCI Express 4.0,M.2,424990,424990,424990,424990,424990
+66411,Seagate FireCuda 510 1 TB (ZP1000GM30011),214990,214990,0,0,https://www.solotodo.cl/products/66411-seagate-firecuda-510-1-tb-zp1000gm30011,1 TB,PCI Express 3.0,M.2,214990,214990,214990,214990,214990
+113346,Hikvision E100N 512 GB (HS-SSD-E100N/512G),52900,52900,0,0,https://www.solotodo.cl/products/113346-hikvision-e100n-512-gb-hs-ssd-e100n512g,512 GB,SATA 3 (6.0 Gb/s),M.2,52900,52900,52900,52900,52900
+126761,Samsung 983 DCT 960 GB (MZ-1LB960NE),195586,195586,0,0,https://www.solotodo.cl/products/126761-samsung-983-dct-960-gb-mz-1lb960ne,960 GB,PCI Express 3.0,M.2,195586,195586,195586,195586,195586
+93093,Western Digital Black SN850 1 TB (WDS100T1X0E),189990,189990,0,0,https://www.solotodo.cl/products/93093-western-digital-black-sn850-1-tb-wds100t1x0e,1 TB,PCI Express 4.0,M.2,189990,189990,189990,189990,189990
+119722,Corsair Force MP600 Core 1 TB (CSSD-F1000GBMP600COR),168990,168990,0,0,https://www.solotodo.cl/products/119722-corsair-force-mp600-core-1-tb-cssd-f1000gbmp600cor,1 TB,PCI Express 4.0,M.2,168990,168990,168990,168990,168990
+87982,Seagate BarraCuda 510 1 TB (ZP1000CM3A001),177990,177990,0,0,https://www.solotodo.cl/products/87982-seagate-barracuda-510-1-tb-zp1000cm3a001,1 TB,PCI Express 3.0,M.2,177990,177990,177990,177990,177990
+104806,Samsung 980 Pro 1 TB (MZ-V8P1T0B/AM),220990,220990,0,0,https://www.solotodo.cl/products/104806-samsung-980-pro-1-tb-mz-v8p1t0bam,1 TB,PCI Express 4.0,M.2,220990,220990,220990,220990,220990
+109136,Team T-Force Cardea Ceramic C440 1 TB (TM8FPA001T0C410),199000,199000,0,0,https://www.solotodo.cl/products/109136-team-t-force-cardea-ceramic-c440-1-tb-tm8fpa001t0c410,1 TB,PCI Express 4.0,M.2,199000,199000,199000,199000,199000
+118836,Gigabyte M30 1 TB (GP-GM301TB-G),149000,149000,0,0,https://www.solotodo.cl/products/118836-gigabyte-m30-1-tb-gp-gm301tb-g,1 TB,PCI Express 3.0,M.2,149000,149000,149000,149000,149000
+56883,Samsung 970 Evo Plus 1 TB (MZ-V7S1T0B/AM),174990,174990,0,0,https://www.solotodo.cl/products/56883-samsung-970-evo-plus-1-tb-mz-v7s1t0bam,1 TB,PCI Express 3.0,M.2,174990,174990,174990,174990,174990
+43976,Western Digital Blue 3D NAND 2 TB (WDS200T2B0B),236990,236990,0,0,https://www.solotodo.cl/products/43976-western-digital-blue-3d-nand-2-tb-wds200t2b0b,2 TB,SATA 3 (6.0 Gb/s),M.2,236990,236990,236990,236990,236990
+68572,Team T-Force Cardea II 1 TB (TM8FP5001T0C110),161437,161437,0,0,https://www.solotodo.cl/products/68572-team-t-force-cardea-ii-1-tb-tm8fp5001t0c110,1 TB,PCI Express 3.0,M.2,161437,161437,161437,161437,161437
+93916,Samsung 980 Pro 500 GB (MZ-V8P500B/AM),151990,151990,0,0,https://www.solotodo.cl/products/93916-samsung-980-pro-500-gb-mz-v8p500bam,500 GB,PCI Express 4.0,M.2,151990,151990,151990,151990,151990
+120628,Corsair MP600 PRO XT 1 TB (CSSD-F1000GBMP600PXT),220990,220990,0,0,https://www.solotodo.cl/products/120628-corsair-mp600-pro-xt-1-tb-cssd-f1000gbmp600pxt,1 TB,PCI Express 4.0,M.2,220990,220990,220990,220990,220990
+82583,Kingston KC2500 2 TB (SKC2500M8/2000G),257090,257090,0,0,https://www.solotodo.cl/products/82583-kingston-kc2500-2-tb-skc2500m82000g,2 TB,PCI Express 3.0,M.2,257090,257090,257090,257090,257090
+123420,Team MP33 2 TB (TM8FP6002T0C101),212500,212500,0,0,https://www.solotodo.cl/products/123420-team-mp33-2-tb-tm8fp6002t0c101,2 TB,PCI Express 3.0,M.2,212500,212500,212500,212500,212500
+93092,Western Digital Black SN850 2 TB (WDS200T1X0E),479990,479990,0,0,https://www.solotodo.cl/products/93092-western-digital-black-sn850-2-tb-wds200t1x0e,2 TB,PCI Express 4.0,M.2,479990,479990,479990,479990,479990
+120626,Corsair MP400 2 TB (CSSD-F2000GBMP400R2),271990,271990,0,0,https://www.solotodo.cl/products/120626-corsair-mp400-2-tb-cssd-f2000gbmp400r2,2 TB,PCI Express 3.0,M.2,271990,271990,271990,271990,271990
+126917,Kingston FURY Renegade 2 TB (SFYRD/2000G),499990,499990,0,0,https://www.solotodo.cl/products/126917-kingston-fury-renegade-2-tb-sfyrd2000g,2 TB,PCI Express 4.0,M.2,,499990,499990,499990,499990
+90835,Gigabyte AORUS Gen4 2 TB (GP-AG42TB),379999,379999,0,0,https://www.solotodo.cl/products/90835-gigabyte-aorus-gen4-2-tb-gp-ag42tb,2 TB,PCI Express 4.0,M.2,379999,379999,379999,379999,379999
+116095,Intel 670P 1 TB (SSDPEKNU010TZX1),131800,131800,0,0,https://www.solotodo.cl/products/116095-intel-670p-1-tb-ssdpeknu010tzx1,1 TB,PCI Express 3.0,M.2,131800,131800,131800,131800,131800
+89892,HP EX950 2 TB (5MS24AA),289000,289000,0,0,https://www.solotodo.cl/products/89892-hp-ex950-2-tb-5ms24aa,2 TB,PCI Express 3.0,M.2,289000,289000,289000,289000,289000
+126060,Western Digital Black SN850 1 TB (WDS100T1XHE),299990,299990,0,0,https://www.solotodo.cl/products/126060-western-digital-black-sn850-1-tb-wds100t1xhe,1 TB,PCI Express 4.0,M.2,299990,299990,299990,,299990
+115168,Samsung 980 Pro 2 TB (MZ-V8P2T0B/AM),403990,403990,0,0,https://www.solotodo.cl/products/115168-samsung-980-pro-2-tb-mz-v8p2t0bam,2 TB,PCI Express 4.0,M.2,403990,403990,403990,403990,403990
+86081,Team T-Force Cardea Ceramic C440 2 TB (TM8FPA002T0C410),398900,398900,0,0,https://www.solotodo.cl/products/86081-team-t-force-cardea-ceramic-c440-2-tb-tm8fpa002t0c410,2 TB,PCI Express 4.0,M.2,398900,398900,398900,398900,398900
+118834,Gigabyte Aorus 2 TB (GP-ASM2NE6200TTTD),397091,397091,0,0,https://www.solotodo.cl/products/118834-gigabyte-aorus-2-tb-gp-asm2ne6200tttd,2 TB,PCI Express 4.0,M.2,397091,397091,397091,397091,397091
+99334,Corsair Force MP600 2 TB (CSSD-F2000GBMP600),379990,379990,0,0,https://www.solotodo.cl/products/99334-corsair-force-mp600-2-tb-cssd-f2000gbmp600,2 TB,PCI Express 4.0,M.2,379990,379990,379990,379990,379990
+47679,Samsung 970 Pro 1 TB (MZ-V7P1T0BW),334990,334990,0,0,https://www.solotodo.cl/products/47679-samsung-970-pro-1-tb-mz-v7p1t0bw,1 TB,PCI Express 3.0,M.2,334990,334990,334990,334990,334990
+73550,Western Digital Red SA500 2 TB (WDS200T1R0B),305990,305990,0,0,https://www.solotodo.cl/products/73550-western-digital-red-sa500-2-tb-wds200t1r0b,2 TB,SATA 3 (6.0 Gb/s),M.2,305990,305990,305990,305990,305990
+66410,Samsung 970 Evo Plus 2 TB (MZ-V7S2T0B/AM),289990,289990,0,0,https://www.solotodo.cl/products/66410-samsung-970-evo-plus-2-tb-mz-v7s2t0bam,2 TB,PCI Express 3.0,M.2,289990,289990,289990,289990,289990
+115072,Hikvision E1000 512 GB (HS-SSD-E1000/512G/MINDER),56900,56900,0,0,https://www.solotodo.cl/products/115072-hikvision-e1000-512-gb-hs-ssd-e1000512gminder,512 GB,PCI Express 3.0,M.2,56900,56900,56900,56900,56900
+62016,Kingston KC2000 2 TB (SKC2000M8/2000G),439990,439990,0,0,https://www.solotodo.cl/products/62016-kingston-kc2000-2-tb-skc2000m82000g,2 TB,PCI Express 3.0,M.2,439990,439990,439990,439990,439990
+111407,Hikvision E1000 512 GB (HS-SSD-E1000/512G),54900,54900,0,0,https://www.solotodo.cl/products/111407-hikvision-e1000-512-gb-hs-ssd-e1000512g,512 GB,PCI Express 3.0,M.2,54900,54900,54900,54900,54900
+62198,A-DATA XPG SX6000 Lite 1 TB (ASX6000LNP-1TT-C),199990,199990,0,0,https://www.solotodo.cl/products/62198-a-data-xpg-sx6000-lite-1-tb-asx6000lnp-1tt-c,1 TB,PCI Express 3.0,M.2,199990,199990,199990,199990,199990
+56884,Samsung 860 EVO 2 TB (MZ-N6E2T0BW),404462,404462,0,0,https://www.solotodo.cl/products/56884-samsung-860-evo-2-tb-mz-n6e2t0bw,2 TB,SATA 3 (6.0 Gb/s),M.2,404462,404462,404462,404462,404462
+56722,Samsung 970 Evo Plus 500 GB (MZ-V7S500B/AM),99990,99990,0,0,https://www.solotodo.cl/products/56722-samsung-970-evo-plus-500-gb-mz-v7s500bam,500 GB,PCI Express 3.0,M.2,99990,99990,99990,99990,99990
+120630,Corsair MP400 1 TB (CSSD-F1000GBMP400R2),151990,151990,0,0,https://www.solotodo.cl/products/120630-corsair-mp400-1-tb-cssd-f1000gbmp400r2,1 TB,PCI Express 3.0,M.2,151990,151990,151990,151990,151990
+60614,Western Digital Black 1 TB (WDS100T3XHC),149990,149990,0,0,https://www.solotodo.cl/products/60614-western-digital-black-1-tb-wds100t3xhc,1 TB,PCI Express 3.0,M.2,149990,149990,149990,149990,149990
+73547,Western Digital Red SA500 500 GB (WDS500G1R0B),75900,75900,0,0,https://www.solotodo.cl/products/73547-western-digital-red-sa500-500-gb-wds500g1r0b,500 GB,SATA 3 (6.0 Gb/s),M.2,75900,75900,75900,75900,75900
+123931,Hikvision E3000 1 TB (HS-SSD-E3000/1024G),138000,138000,0,0,https://www.solotodo.cl/products/123931-hikvision-e3000-1-tb-hs-ssd-e30001024g,1 TB,PCI Express 3.0,M.2,138000,138000,138000,138000,138000
+109134,Team T-Force Cardea Liquid 1 TB (TM8FP5001T0C119),149000,149000,0,0,https://www.solotodo.cl/products/109134-team-t-force-cardea-liquid-1-tb-tm8fp5001t0c119,1 TB,PCI Express 3.0,M.2,149000,149000,149000,149000,149000
+122365,MSI Spatium M370 1 TB (SPATIUM M370 NVMe M.2 1TB),119900,119900,0,0,https://www.solotodo.cl/products/122365-msi-spatium-m370-1-tb-spatium-m370-nvme-m2-1tb,1 TB,PCI Express 3.0,M.2,119900,119900,119900,119900,119900
+65395,A-DATA XPG Spectrix S40G RGB 1 TB (AS40G-1TT-C),135100,135100,0,0,https://www.solotodo.cl/products/65395-a-data-xpg-spectrix-s40g-rgb-1-tb-as40g-1tt-c,1 TB,PCI Express 3.0,M.2,135100,135100,135100,135100,135100
+114081,Lexar NM620 1 TB (LNM620X001T-RNNNG),119990,119990,0,0,https://www.solotodo.cl/products/114081-lexar-nm620-1-tb-lnm620x001t-rnnng,1 TB,PCI Express 3.0,M.2,119990,119990,119990,119990,119990
+120625,Corsair Force MP600 Core 2 TB (CSSD-F2000GBMP600COR),289990,289990,0,0,https://www.solotodo.cl/products/120625-corsair-force-mp600-core-2-tb-cssd-f2000gbmp600cor,2 TB,PCI Express 4.0,M.2,289990,289990,289990,289990,289990
+91678,Western Digital Black SN750 500 GB (WDBRPG5000ANC-WRSN),85090,85090,0,0,https://www.solotodo.cl/products/91678-western-digital-black-sn750-500-gb-wdbrpg5000anc-wrsn,500 GB,PCI Express 3.0,M.2,85090,85090,85090,85090,85090
+80601,A-DATA XPG SX8100 512 GB (ASX8100NP-512GT-C),75900,75900,0,0,https://www.solotodo.cl/products/80601-a-data-xpg-sx8100-512-gb-asx8100np-512gt-c,512 GB,PCI Express 3.0,M.2,75900,75900,75900,75900,75900
+123981,Hikvision E3000 512 GB (HS-SSD-E3000/512G),75000,75000,0,0,https://www.solotodo.cl/products/123981-hikvision-e3000-512-gb-hs-ssd-e3000512g,512 GB,PCI Express 3.0,M.2,75000,75000,75000,75000,75000
+120811,Team T-Force Cardea A440 1 TB (TM8FPZ001T0C327),249000,249000,0,0,https://www.solotodo.cl/products/120811-team-t-force-cardea-a440-1-tb-tm8fpz001t0c327,1 TB,PCI Express 4.0,M.2,249000,249000,249000,249000,249000
+121150,Gigabyte M30 512 GB (GP-GM30512G-G),74900,74900,0,0,https://www.solotodo.cl/products/121150-gigabyte-m30-512-gb-gp-gm30512g-g,512 GB,PCI Express 3.0,M.2,74900,74900,74900,74900,74900
+91677,Patriot Viper VPR100 512 GB (VPR100-512GM28H),84900,84900,0,0,https://www.solotodo.cl/products/91677-patriot-viper-vpr100-512-gb-vpr100-512gm28h,512 GB,PCI Express 3.0,M.2,84900,84900,84900,84900,84900
+60202,Western Digital Black SN750 1 TB (WDS100T3X0C),148190,148190,0,0,https://www.solotodo.cl/products/60202-western-digital-black-sn750-1-tb-wds100t3x0c,1 TB,PCI Express 3.0,M.2,148190,148190,148190,148190,148190
+86976,Patriot Viper VPN100 512 GB (VPN100-512GM28H),69900,69900,0,0,https://www.solotodo.cl/products/86976-patriot-viper-vpn100-512-gb-vpn100-512gm28h,512 GB,PCI Express 3.0,M.2,69900,69900,69900,69900,69900
+65075,Kingston A2000 1 TB (SA2000M8/1000G),134990,134990,0,0,https://www.solotodo.cl/products/65075-kingston-a2000-1-tb-sa2000m81000g,1 TB,PCI Express 3.0,M.2,134990,134990,134990,134990,134990
+68571,Team T-Force Cardea II 512 GB (TM8FP5512G0C110),104900,104900,0,0,https://www.solotodo.cl/products/68571-team-t-force-cardea-ii-512-gb-tm8fp5512g0c110,512 GB,PCI Express 3.0,M.2,104900,104900,104900,104900,104900
+43981,Western Digital Blue 3D NAND 500 GB (WDS500G2B0B),57000,57000,0,0,https://www.solotodo.cl/products/43981-western-digital-blue-3d-nand-500-gb-wds500g2b0b,500 GB,SATA 3 (6.0 Gb/s),M.2,57000,57000,57000,57000,57000
+55890,A-DATA XPG SX8200 Pro 512 GB (ASX8200PNP-512GT-C),63175,63175,0,0,https://www.solotodo.cl/products/55890-a-data-xpg-sx8200-pro-512-gb-asx8200pnp-512gt-c,512 GB,PCI Express 3.0,M.2,63175,63175,63175,63175,63175
+65076,Kingston A2000 500 GB (SA2000M8/500G),63990,63990,0,0,https://www.solotodo.cl/products/65076-kingston-a2000-500-gb-sa2000m8500g,500 GB,PCI Express 3.0,M.2,63990,63990,63990,63990,63990
+82930,Kingston KC2500 500 GB (SKC2500M8/500G),64990,64990,0,0,https://www.solotodo.cl/products/82930-kingston-kc2500-500-gb-skc2500m8500g,500 GB,PCI Express 3.0,M.2,64990,64990,64990,64990,64990
+60949,Gigabyte 512 GB (GP-GSM2NE8512GNTD),62900,62900,0,0,https://www.solotodo.cl/products/60949-gigabyte-512-gb-gp-gsm2ne8512gntd,512 GB,PCI Express 3.0,M.2,62900,62900,62900,62900,62900
+65394,A-DATA XPG Spectrix S40G RGB 512 GB (AS40G-512GT-C),67800,67800,0,0,https://www.solotodo.cl/products/65394-a-data-xpg-spectrix-s40g-rgb-512-gb-as40g-512gt-c,512 GB,PCI Express 3.0,M.2,67800,67800,67800,67800,67800
+108258,Team T-Force Cardea Liquid 512 GB (TM8FP5512G0C119),89000,89000,0,0,https://www.solotodo.cl/products/108258-team-t-force-cardea-liquid-512-gb-tm8fp5512g0c119,512 GB,PCI Express 3.0,M.2,89000,89000,89000,89000,89000
+112793,Apacer PP3480 1 TB (AP1TPP3480-R),115990,115990,0,0,https://www.solotodo.cl/products/112793-apacer-pp3480-1-tb-ap1tpp3480-r,1 TB,PCI Express 3.0,M.2,115990,115990,115990,115990,115990
+60612,Western Digital Black 500 GB (WDS500G3XHC),91990,91990,0,0,https://www.solotodo.cl/products/60612-western-digital-black-500-gb-wds500g3xhc,500 GB,PCI Express 3.0,M.2,91990,91990,91990,91990,91990
+127048,Kingston FURY Renegade 1 TB (SFYRS/1000G),234990,234990,0,0,https://www.solotodo.cl/products/127048-kingston-fury-renegade-1-tb-sfyrs1000g,1 TB,PCI Express 4.0,M.2,,,234990,234990,234990
+113347,Hikvision E100N 1 TB (HS-SSD-E100N/1024G),89900,89900,0,0,https://www.solotodo.cl/products/113347-hikvision-e100n-1-tb-hs-ssd-e100n1024g,1 TB,SATA 3 (6.0 Gb/s),M.2,89900,89900,89900,89900,89900
+111406,Hikvision E2000 512 GB (HS-SSD-E2000/512G),70500,70500,0,0,https://www.solotodo.cl/products/111406-hikvision-e2000-512-gb-hs-ssd-e2000512g,512 GB,PCI Express 3.0,M.2,70500,70500,70500,70500,70500
+42076,Western Digital Blue 3D NAND 1 TB (WDS100T2B0B),96990,96990,0,0,https://www.solotodo.cl/products/42076-western-digital-blue-3d-nand-1-tb-wds100t2b0b,1 TB,SATA 3 (6.0 Gb/s),M.2,96990,96990,96990,96990,96990
+88314,Gigabyte AORUS Gen4 500 GB (GP-AG4500G),99266,99266,0,0,https://www.solotodo.cl/products/88314-gigabyte-aorus-gen4-500-gb-gp-ag4500g,500 GB,PCI Express 4.0,M.2,99266,99266,99266,99266,99266
+87940,Seagate FireCuda 520 500 GB (ZP500GM3A002),130986,130986,0,0,https://www.solotodo.cl/products/87940-seagate-firecuda-520-500-gb-zp500gm3a002,500 GB,PCI Express 4.0,M.2,130986,130986,130986,130986,130986
+66386,Gigabyte Aorus 500 GB (GP-ASM2NE6500GTTD),109433,109433,0,0,https://www.solotodo.cl/products/66386-gigabyte-aorus-500-gb-gp-asm2ne6500gttd,500 GB,PCI Express 4.0,M.2,109433,109433,109433,109433,109433
+104905,Crucial P5 1 TB (CT1000P5SSD8),143726,143726,0,0,https://www.solotodo.cl/products/104905-crucial-p5-1-tb-ct1000p5ssd8,1 TB,PCI Express 3.0,M.2,143726,143726,143726,143726,143726
+126061,Western Digital Black SN850 2 TB (WDS200T1XHE),496990,496990,0,0,https://www.solotodo.cl/products/126061-western-digital-black-sn850-2-tb-wds200t1xhe,2 TB,PCI Express 4.0,M.2,496990,496990,496990,,496990
+125633,Kingston KC3000 512 GB (SKC3000S/512G),115990,115990,0,0,https://www.solotodo.cl/products/125633-kingston-kc3000-512-gb-skc3000s512g,512 GB,PCI Express 4.0,M.2,115990,115990,115990,115990,115990
+82010,Gigabyte 1 TB (GP-GSM2NE3100TNTD),117316,117316,0,0,https://www.solotodo.cl/products/82010-gigabyte-1-tb-gp-gsm2ne3100tntd,1 TB,PCI Express 3.0,M.2,117316,117316,117316,117316,117316
+93091,Western Digital Black SN850 500 GB (WDS500G1X0E),114990,114990,0,0,https://www.solotodo.cl/products/93091-western-digital-black-sn850-500-gb-wds500g1x0e,500 GB,PCI Express 4.0,M.2,114990,114990,114990,114990,114990
+112698,Team MP33 1 TB (TM8FP6001TDC101),119500,119500,0,0,https://www.solotodo.cl/products/112698-team-mp33-1-tb-tm8fp6001tdc101,1 TB,PCI Express 3.0,M.2,119500,119500,119500,119500,119500
+30474,Western Digital Blue 500 GB (WDS500G1B0B),113696,113696,0,0,https://www.solotodo.cl/products/30474-western-digital-blue-500-gb-wds500g1b0b,500 GB,SATA 3 (6.0 Gb/s),M.2,113696,113696,113696,113696,113696
+100186,Team MP33 1 TB (TM8FP6001T0C101),109900,109900,0,0,https://www.solotodo.cl/products/100186-team-mp33-1-tb-tm8fp6001t0c101,1 TB,PCI Express 3.0,M.2,109900,109900,109900,109900,109900
+126918,Kingston FURY Renegade 500 GB (SFYRS/500G),144990,144990,0,0,https://www.solotodo.cl/products/126918-kingston-fury-renegade-500-gb-sfyrs500g,500 GB,PCI Express 4.0,M.2,,144990,144990,144990,144990
+103162,Seagate BarraCuda Q5 1 TB (ZP1000CV3A001),114900,114900,0,0,https://www.solotodo.cl/products/103162-seagate-barracuda-q5-1-tb-zp1000cv3a001,1 TB,PCI Express 3.0,M.2,114900,114900,114900,114900,114900
+120629,Corsair MP600 PRO 1 TB (CSSD-F1000GBMP600PRO),208990,208990,0,0,https://www.solotodo.cl/products/120629-corsair-mp600-pro-1-tb-cssd-f1000gbmp600pro,1 TB,PCI Express 4.0,M.2,,208990,208990,208990,208990
+87306,Asgard AN3 1 TB (ASNVP1TB3DDC1SGBR),140000,140000,0,0,https://www.solotodo.cl/products/87306-asgard-an3-1-tb-asnvp1tb3ddc1sgbr,1 TB,PCI Express 3.0,M.2,140000,140000,140000,140000,140000
+104906,Crucial P5 500 GB (CT500P5SSD8),69977,69990,13,-0,https://www.solotodo.cl/products/104906-crucial-p5-500-gb-ct500p5ssd8,500 GB,PCI Express 3.0,M.2,69927,69990,69990,69990,69990
+125632,Kingston KC3000 1 TB (SKC3000S/1024G),190631,191246,615,-0,https://www.solotodo.cl/products/125632-kingston-kc3000-1-tb-skc3000s1024g,1 TB,PCI Express 4.0,M.2,190490,189990,189940,191490,191246
+125630,Kingston KC3000 2 TB (SKC3000D/2048G),430350,431841,1491,-0,https://www.solotodo.cl/products/125630-kingston-kc3000-2-tb-skc3000d2048g,2 TB,PCI Express 4.0,M.2,430490,428490,428440,432490,431841
+51557,Intel 660P 512 GB (SSDPEKNW512G8X1),64400,67400,3000,-5,https://www.solotodo.cl/products/51557-intel-660p-512-gb-ssdpeknw512g8x1,512 GB,PCI Express 3.0,M.2,59900,59900,67400,67400,67400
+102977,PNY CS1030 1 TB (M280CS1030-1TB-CL),114990,129990,15000,-13,https://www.solotodo.cl/products/102977-pny-cs1030-1-tb-m280cs1030-1tb-cl,1 TB,PCI Express 3.0,M.2,104990,104990,104990,129990,129990
+89417,Team T-Force Cardea II TUF Gaming Alliance 1 TB (TM8FPB001T0C310),179900,,,,https://www.solotodo.cl/products/89417-team-t-force-cardea-ii-tuf-gaming-alliance-1-tb-tm8fpb001t0c310,1 TB,PCI Express 3.0,M.2,179900,179900,179900,,

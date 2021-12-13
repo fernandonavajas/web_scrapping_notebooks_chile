@@ -6,7 +6,7 @@ from selenium.common.exceptions import ElementNotVisibleException, ElementNotSel
 from order_date_prices import order_date_prices
 
 def find_stereos(driver):
-  print("Searching Stereos")
+  print("Searching Stereos", end="  pages  => ")
   stereos = []
   for index in range(1, 99):
     # Obtener los equipos de audio
@@ -26,7 +26,7 @@ def find_stereos(driver):
       }
       stereos.append(stereo)
     # Cambiar la pagina
-    # print("cambio la pagina " + str(index))
+    print(f'{str(index)}', end=", ")
   print("")
   # Guardar la lista de equipos de audio
   order_date_prices(stereos, path='items/stereos.csv')

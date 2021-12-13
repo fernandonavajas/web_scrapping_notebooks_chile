@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from order_date_prices import order_date_prices
 
 def find_all_in_ones(driver):
-  print("Searching all_in_ones")
+  print("Searching all_in_ones", end="  pages  => ")
   all_in_ones = []
   for index in range(1, 99):
     # Obtener los audifonos
@@ -24,7 +24,7 @@ def find_all_in_ones(driver):
       }
       all_in_ones.append(all_in_one)
     # Cambiar la pagina
-    # print("cambio la pagina " + str(index))
+    print(f'{str(index)}', end=", ")
   print("")
   # Guardar la lista de audifonos
   order_date_prices(all_in_ones, path='items/all_in_ones.csv')

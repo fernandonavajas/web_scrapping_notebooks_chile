@@ -55,8 +55,9 @@ def is_offer(df, path):
       category = path[6:-4]
       name = row["name"]
       percentage = round(row["diff percent"], 2)
-      today: format(int(row["today"]), ',d')
+      today = format(int(row["today"]), ',d')
       avg = format(int(row["price"]), ',d') 
-      # notebooks: Lenovo h3 23%↓ today: 990.000 avg: 1.299.000
-      print(f'{category}: {name} {percentage}%↓ today: {today} avg: {avg}')
+      url = row["url"]
+      # notebooks: 23%↓ today: 990.000 avg: 1.299.000 Lenovo h3... url...
+      print(f'{category}: {percentage}%↓ today: {today} avg: {avg} {name} {url}')
   
