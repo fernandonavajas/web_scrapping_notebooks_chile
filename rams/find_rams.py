@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from order_date_prices import order_date_prices
 
 def find_rams(driver):
-  print("Searching rams", end="  pages  => ")
+  print("Searching rams")
   rams = []
   for index in range(1, 99):
     # Obtener los rames
@@ -25,7 +25,7 @@ def find_rams(driver):
       }
       rams.append(ram)
     # Cambiar la pagina
-    print(f'{str(index)}', end=", ")
+    print(f'{str(index)}')
   print("")
   # Guardar la lista de rames
   order_date_prices(rams, path='items/rams.csv')

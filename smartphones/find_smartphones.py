@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from order_date_prices import order_date_prices
 
 def find_smartphones(driver):
-  print("Searching smartphones", end="  pages  => ")
+  print("Searching smartphones")
   smartphones = []
   for index in range(1, 99):
     # Obtener los telefonos
@@ -31,7 +31,7 @@ def find_smartphones(driver):
         continue
     
     # Cambiar la pagina
-    print(f'{str(index)}', end=", ")
+    print(f'{str(index)}')
   
   print("")
   # Guardar la lista de telefonos

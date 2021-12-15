@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from order_date_prices import order_date_prices
 
 def find_monitors(driver):
-  print("Searching monitors", end="  pages  => ")
+  print("Searching monitors")
   monitors = []
   for index in range(1, 99):
     # Obtener los monitores
@@ -26,7 +26,7 @@ def find_monitors(driver):
       }
       monitors.append(monitor)
     # Cambiar la pagina
-    print(f'{str(index)}', end=", ")
+    print(f'{str(index)}')
   print("")
   # Guardar la lista de monitores
   order_date_prices(monitors, path='items/monitors.csv')

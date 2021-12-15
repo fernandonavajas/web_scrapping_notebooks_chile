@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from order_date_prices import order_date_prices
 
 def find_microwaves(driver):
-  print("Searching Microwaves", end="  pages  => ")
+  print("Searching Microwaves")
   microwaves = []
   for index in range(1, 99):
     # Obtener los microwavees
@@ -23,7 +23,7 @@ def find_microwaves(driver):
       }
       microwaves.append(microwave)
     # Cambiar la pagina
-    print(f'{str(index)}', end=", ")
+    print(f'{str(index)}')
   print("")
   # Guardar la lista de microwavees
   order_date_prices(microwaves, path='items/microwaves.csv')

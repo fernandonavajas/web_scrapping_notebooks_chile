@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from order_date_prices import order_date_prices
 
 def find_earphones(driver):
-  print("Searching earphones", end="  pages  => ")
+  print("Searching earphones")
   earphones = []
   for index in range(1, 99):
     # Obtener los audifonos
@@ -25,7 +25,7 @@ def find_earphones(driver):
       }
       earphones.append(earphone)
     # Cambiar la pagina
-    print(f'{str(index)}', end=", ")
+    print(f'{str(index)}')
   print("")
   # Guardar la lista de audifonos
   order_date_prices(earphones, path='items/earphones.csv')

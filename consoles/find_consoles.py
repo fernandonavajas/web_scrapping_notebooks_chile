@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from order_date_prices import order_date_prices
 
 def find_consoles(driver):
-  print("Searching consoles", end="  pages  => ")
+  print("Searching consoles")
   consoles = []
   for index in range(1, 99):
     # Obtener las consolas
@@ -30,7 +30,7 @@ def find_consoles(driver):
         continue
 
     # Cambiar la pagina
-    print(f'{str(index)}', end=", ")
+    print(f'{str(index)}')
   
   print("")
   # Guardar la lista de consolas

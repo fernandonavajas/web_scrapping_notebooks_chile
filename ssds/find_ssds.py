@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from order_date_prices import order_date_prices
 
 def find_ssds(driver):
-  print("Searching ssds", end="  pages  => ")
+  print("Searching ssds")
   ssds = []
   for index in range(1, 99):
     # Obtener los ssdes
@@ -23,7 +23,7 @@ def find_ssds(driver):
       }
       ssds.append(ssd)
     # Cambiar la pagina
-    print(f'{str(index)}', end=", ")
+    print(f'{str(index)}')
   print("")
   # Guardar la lista de ssdes
   order_date_prices(ssds, path='items/ssds.csv')

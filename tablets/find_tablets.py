@@ -4,7 +4,7 @@ from order_date_prices import order_date_prices
 from selenium.common.exceptions import NoSuchElementException
 
 def find_tablets(driver):
-  print("Searching tablets", end="  pages  => ")
+  print("Searching tablets")
   tablets = []
   for index in range(1, 99):
     # Obtener las tablets
@@ -31,7 +31,7 @@ def find_tablets(driver):
         continue
   
     #Cambiar la pagina
-    print(f'{str(index)}', end=", ")
+    print(f'{str(index)}')
   
   print("")
   # Guardar la lista de tablets
