@@ -27,7 +27,7 @@ def find_air_conditioners(driver):
       air_conditioners.append(air_conditioner)
     # Cambiar la pagina
     print(f'{str(index)}')
-  print("")
+  print(("-"*60).center(100))
   # Guardar la lista de aspiradoras
   order_date_prices(air_conditioners, path='items/air_conditioners.csv')
 

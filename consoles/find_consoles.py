@@ -32,7 +32,7 @@ def find_consoles(driver):
     # Cambiar la pagina
     print(f'{str(index)}')
   
-  print("")
+  print(("-"*60).center(100))
   # Guardar la lista de consolas
   order_date_prices(consoles, path='items/consoles.csv')
 

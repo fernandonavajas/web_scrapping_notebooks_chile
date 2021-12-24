@@ -52,7 +52,7 @@ def calculate_diff_price(df):
 def is_offer(df, path):
   for _, row in df.iterrows():
     if (row['diff percent'] > 10):
-      category = path[6:-4]
+      category = path[6:-4].ljust(15, " ")
       name = row["name"]
       percentage = round(row["diff percent"], 2)
       today = format(int(row["today"]), ',d')
@@ -60,4 +60,5 @@ def is_offer(df, path):
       url = row["url"]
       # notebooks: 23%↓ today: 990.000 avg: 1.299.000 Lenovo h3... url...
       print(f'{category}: {percentage}%↓ today: {today} avg: {avg} {name} {url}')
+  print(("-"*60).center(100))
   

@@ -28,6 +28,6 @@ def find_notebooks(driver):
       notebooks.append(notebook)
     n = n+1
     # print(f'{ round(n*100.0/n_processes, 2)  } % ')
-  print("")
+  print(("-"*60).center(100))
   # Guardar la lista de notebooks
   order_date_prices(notebooks, path='items/notebooks.csv', order='score', order_ascending=False)

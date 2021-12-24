@@ -26,7 +26,7 @@ def find_earphones(driver):
       earphones.append(earphone)
     # Cambiar la pagina
     print(f'{str(index)}')
-  print("")
+  print(("-"*60).center(100))
   # Guardar la lista de audifonos
   order_date_prices(earphones, path='items/earphones.csv')
 

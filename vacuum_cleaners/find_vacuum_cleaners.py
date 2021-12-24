@@ -28,7 +28,7 @@ def find_vacuum_cleaners(driver):
       vacuum_cleaners.append(vacuum_cleaner)
     # Cambiar la pagina
     print(f'{str(index)}')
-  print("")
+  print(("-"*60).center(100))
   # Guardar la lista de aspiradoras
   order_date_prices(vacuum_cleaners, path='items/vacuum_cleaners.csv')
 

@@ -26,6 +26,6 @@ def find_applewatchs(driver):
       applewatchs.append(applewatch)
     # Cambiar la pagina
     print(f'{str(index)}')
-  print("")
+  print(("-"*60).center(100))
   # Guardar la lista de refrigeradores
   order_date_prices(applewatchs, path='items/applewatchs.csv')

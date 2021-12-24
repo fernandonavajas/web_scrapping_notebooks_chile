@@ -33,7 +33,7 @@ def find_smartphones(driver):
     # Cambiar la pagina
     print(f'{str(index)}')
   
-  print("")
+  print(("-"*60).center(100))
   # Guardar la lista de telefonos
   order_date_prices(smartphones, path='items/smartphones.csv')
 

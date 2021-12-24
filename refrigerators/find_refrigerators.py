@@ -30,7 +30,7 @@ def find_refrigerators(driver):
       refrigerators.append(refrigerator)
     # Cambiar la pagina
     print(f'{str(index)}')
-  print("")
+  print(("-"*60).center(100))
   # Guardar la lista de refrigeradores
   order_date_prices(refrigerators, path='items/refrigerators.csv')
 

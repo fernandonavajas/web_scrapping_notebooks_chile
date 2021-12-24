@@ -24,7 +24,7 @@ def find_ssds(driver):
       ssds.append(ssd)
     # Cambiar la pagina
     print(f'{str(index)}')
-  print("")
+  print(("-"*60).center(100))
   # Guardar la lista de ssdes
   order_date_prices(ssds, path='items/ssds.csv')
 

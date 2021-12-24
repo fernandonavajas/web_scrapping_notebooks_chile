@@ -28,7 +28,7 @@ def find_estufas(driver):
       estufas.append(estufa)
     # Cambiar la pagina
     print(f'{str(index)}')
-  print("")
+  print(("-"*60).center(100))
   # Guardar la lista de estufas
   order_date_prices(estufas, path='items/estufas.csv')
 

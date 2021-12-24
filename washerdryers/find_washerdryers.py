@@ -26,7 +26,7 @@ def find_washerdryers(driver):
       washerdryers.append(washerdryer)
     # Cambiar la pagina
     print(f'{str(index)}')
-  print("")
+  print(("-"*60).center(100))
   # Guardar la lista de washerdryeres
   order_date_prices(washerdryers, path='items/washerdryers.csv')
 

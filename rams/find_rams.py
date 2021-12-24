@@ -26,7 +26,7 @@ def find_rams(driver):
       rams.append(ram)
     # Cambiar la pagina
     print(f'{str(index)}')
-  print("")
+  print(("-"*60).center(100))
   # Guardar la lista de rames
   order_date_prices(rams, path='items/rams.csv')
 

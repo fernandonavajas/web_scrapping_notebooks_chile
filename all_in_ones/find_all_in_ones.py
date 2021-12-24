@@ -25,7 +25,7 @@ def find_all_in_ones(driver):
       all_in_ones.append(all_in_one)
     # Cambiar la pagina
     print(f'{str(index)}')
-  print("")
+  print(("-"*60).center(100))
   # Guardar la lista de audifonos
   order_date_prices(all_in_ones, path='items/all_in_ones.csv')
 
