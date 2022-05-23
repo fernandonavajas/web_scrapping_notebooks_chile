@@ -28,6 +28,8 @@ chrome_options.add_argument("--headless")
 s = Service('/bin/chromedriver')
 driver = webdriver.Chrome(service= s, options=chrome_options)
 
+# find_processes(driver)
+
 find_all_in_ones(driver)
 find_applewatchs(driver)
 find_earphones(driver)

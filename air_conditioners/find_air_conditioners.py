@@ -1,8 +1,5 @@
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import ElementNotVisibleException, ElementNotSelectableException, StaleElementReferenceException
-
+from selenium.common.exceptions import NoSuchElementException
 from order_date_prices import order_date_prices
 
 def find_air_conditioners(driver):
@@ -15,16 +12,20 @@ def find_air_conditioners(driver):
     if not air_conditioners_elements:
       break
     for air_conditioner_element in air_conditioners_elements:
-      air_conditioner = {
-        'id': int(air_conditioner_element.find_element(By.XPATH,'.//h3/a').get_attribute('href').split("-")[0].split("/")[-1]),
-        'name': air_conditioner_element.find_element(By.XPATH,'.//h3/a').text,
-        'btu': air_conditioner_element.find_element(By.XPATH,'.//div[2]/dl/dd[1]').text,
-        'efficiency': air_conditioner_element.find_element(By.XPATH,'.//div[2]/dl/dd[2]').text,
-        'inverter': air_conditioner_element.find_element(By.XPATH,'.//div[2]/dl/dd[4]').text,
-        'url': air_conditioner_element.find_element(By.XPATH,'.//h3/a').get_attribute('href'),
-        'price': int(air_conditioner_element.find_element(By.XPATH,'.//div[3]/div/a').text.split(" ")[1].replace(".",""))
-      }
-      air_conditioners.append(air_conditioner)
+      try:
+        air_conditioner = {
+          'id': int(air_conditioner_element.find_element(By.XPATH,'.//h3/a').get_attribute('href').split("-")[0].split("/")[-1]),
+          'name': air_conditioner_element.find_element(By.XPATH,'.//h3/a').text,
+          'btu': air_conditioner_element.find_element(By.XPATH,'.//div[2]/dl/dd[1]').text,
+          'efficiency': air_conditioner_element.find_element(By.XPATH,'.//div[2]/dl/dd[2]').text,
+          'inverter': air_conditioner_element.find_element(By.XPATH,'.//div[2]/dl/dd[3]').text,
+          'url': air_conditioner_element.find_element(By.XPATH,'.//h3/a').get_attribute('href'),
+          'price': int(air_conditioner_element.find_element(By.XPATH,'.//div[3]/div/a').text.split(" ")[1].replace(".",""))
+        }
+        air_conditioners.append(air_conditioner)
+      except NoSuchElementException as e:
+        print(f'Error en uno de los elementos, e= {e.msg}')
+        continue
     # Cambiar la pagina
     print(f'{str(index)}')
   print(("-"*60).center(100))

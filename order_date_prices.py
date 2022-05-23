@@ -51,7 +51,7 @@ def calculate_diff_price(df):
 # Lista las ofertas del día por consola
 def is_offer(df, path):
   for _, row in df.iterrows():
-    if (row['diff percent'] > 10):
+    if (row['diff percent'] > 16):
       category = path[6:-4].ljust(15, " ")
       name = row["name"]
       percentage = round(row["diff percent"], 2)
